@@ -46,7 +46,7 @@ window#waybar {
 
 #workspaces button {
   all: unset;
-  padding: 0px 6px;
+  padding: 0px 4px;
   color: alpha(@primary, 0.3);
   transition: all 0.2s ease;
 }
