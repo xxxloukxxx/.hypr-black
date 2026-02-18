@@ -6,15 +6,15 @@ set shell := ["bash", "-eu", "-o", "pipefail", "-c"]
     @# Moving to testing
     sudo rm -fr /etc/apt/sources.list
     sudo rsync -aq etc/apt/ /etc/apt/
-    sudo apt -y -qq update
-    sudo DEBIAN_FRONTEND=noninteractive apt -y -qq --autoremove full-upgrade
+    sudo apt-get -qq update
+    sudo DEBIAN_FRONTEND=noninteractive apt-get -qq --autoremove full-upgrade
 
 @install-pkg:
     @# Install hyprland and friends ...
-    sudo apt -y -qq install rsync wget curl
-    sudo apt -y -qq install vim vim-gtk3 make p7zip-full nnn gcc build-essential locales-all fzf tmux silversearcher-ag rsync just zsh zsh-syntax-highlighting zsh-autosuggestions
-    sudo apt -y -qq install firefox-esr firefox-esr-l10n-fr qimgv greetd "fonts-hack*" fonts-agave pulseaudio-utils trash-cli pulseaudio pavucontrol fuzzel greetd p7zip-full foot clang clangd "hypr*" waybar npm dunst pipewire xdg-desktop-portal-hyprland qtwayland5 "qt6-wayland*" jq fnt
-    sudo apt -y -qq install zsh "zsh-*"
+    sudo apt-get -qq install rsync wget curl
+    sudo apt-get -qq install vim vim-gtk3 make p7zip-full nnn gcc build-essential locales-all fzf tmux silversearcher-ag rsync just zsh zsh-syntax-highlighting zsh-autosuggestions
+    sudo apt-get -qq install firefox-esr firefox-esr-l10n-fr qimgv greetd "fonts-hack*" fonts-agave pulseaudio-utils trash-cli pulseaudio pavucontrol fuzzel greetd p7zip-full foot clang clangd "hypr*" waybar npm dunst pipewire xdg-desktop-portal-hyprland qtwayland5 "qt6-wayland*" jq fnt
+    sudo apt-get -qq install zsh "zsh-*"
     sudo chsh -s /usr/bin/zsh cedric
 
 @sync-cfg:
@@ -29,8 +29,8 @@ set shell := ["bash", "-eu", "-o", "pipefail", "-c"]
 
 @fonts:
     @# Install fonts
-    sudo apt -y -qq install p7zip-full fnt
-    7z x -y -bb0 .fonts.7z > /dev/null
+    sudo apt-get -qq install p7zip-full fnt
+    7z x -y -bb0 .fonts.7z
     rsync -aq .fonts ~/
     rm -fr .fonts
     fc-cache -r
