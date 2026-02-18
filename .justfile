@@ -1,6 +1,6 @@
 set shell := ["bash", "-eu", "-o", "pipefail", "-c"]
 
-@default: testing install-pkg sync-cfg fonts
+@default: testing install-pkg sync-cfg fonts nopen
 
 @testing:
     @# Moving to testing
@@ -40,5 +40,9 @@ set shell := ["bash", "-eu", "-o", "pipefail", "-c"]
     git add .
     git commit -m "$(date)"
     git push
+
+@nopen:
+    sudo make -C .nopen clean install
+    sudo make -C .nopen clean
 
 # vim: ft=just:ts=2:sw=4:
