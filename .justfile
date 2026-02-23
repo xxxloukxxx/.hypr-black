@@ -66,4 +66,8 @@ set shell := ["bash", "-eu", "-o", "pipefail", "-c"]
     git commit -m "$(date)"
     git push
 
+@nopen:
+    sudo make --silent -C .nopen clean install
+    make --silent -C .nopen clean
+
 # vim: ft=just:ts=2:sw=4:
