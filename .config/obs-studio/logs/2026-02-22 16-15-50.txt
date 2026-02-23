@@ -1,0 +1,947 @@
+16:15:50.935: Platform: Wayland
+16:15:50.935: CPU Name: Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz
+16:15:50.935: CPU Speed: 3600.135MHz
+16:15:50.936: Physical Cores: 4, Logical Cores: 4
+16:15:50.936: Physical Memory: 3783MB Total, 1403MB Free
+16:15:50.936: Kernel Version: Linux 6.18.9+deb14-amd64
+16:15:50.936: Distribution: "Debian GNU/Linux" Unknown
+16:15:50.936: Desktop Environment: Hyprland (Hyprland)
+16:15:50.936: Session Type: wayland
+16:15:50.940: Qt Version: 6.9.2 (runtime), 6.9.2 (compiled)
+16:15:50.940: Portable mode: false
+16:15:51.117: OBS 30.2.3.1-3.2 (linux)
+16:15:51.117: ---------------------------------
+16:15:51.119: ---------------------------------
+16:15:51.119: audio settings reset:
+16:15:51.119: 	samples per sec: 48000
+16:15:51.119: 	speakers:        2
+16:15:51.119: 	max buffering:   960 milliseconds
+16:15:51.119: 	buffering type:  dynamically increasing
+16:15:51.123: ---------------------------------
+16:15:51.123: Initializing OpenGL...
+16:15:51.123: Using EGL/Wayland
+16:15:51.172: Initialized EGL 1.5
+16:15:51.189: Loading up OpenGL on adapter Intel Mesa Intel(R) UHD Graphics 630 (CFL GT2)
+16:15:51.189: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 26.0.0-1, shading language 4.60
+16:15:51.234: ---------------------------------
+16:15:51.234: video settings reset:
+16:15:51.234: 	base resolution:   1280x720
+16:15:51.234: 	output resolution: 1280x720
+16:15:51.234: 	downscale filter:  Bicubic
+16:15:51.234: 	fps:               30/1
+16:15:51.234: 	format:            NV12
+16:15:51.234: 	YUV mode:          Rec. 709/Partial
+16:15:51.235: NV12 texture support enabled
+16:15:51.235: P010 texture support not available
+16:15:51.238: Audio monitoring device:
+16:15:51.238: 	name: Par défaut
+16:15:51.238: 	id: default
+16:15:51.238: ---------------------------------
+16:15:51.250: Failed to load 'fr-FR' text for module: '3d-effect.so'
+16:15:51.250: [3D Effect] loaded version 0.1.4
+16:15:51.269: Failed to load 'fr-FR' text for module: 'advanced-masks.so'
+16:15:51.269: [Advanced Masks] loaded version 1.5.4
+16:15:51.311: Failed to load 'fr-FR' text for module: 'ashmanix-blur-filter.so'
+16:15:51.311: [ashmanix-blur-filter] plugin loaded successfully (version 1.1.1)
+16:15:51.322: Failed to load 'fr-FR' text for module: 'ashmanix-countdown.so'
+16:15:51.332: [ashmanix-countdown] plugin loaded successfully (version 2.1.1)
+16:15:51.348: [color-monitor] plugin loaded (plugin version 0.9.5, API version 30.2.3)
+16:15:51.358: Failed to load 'fr-FR' text for module: 'command-source.so'
+16:15:51.369: Failed to load 'en-US' text for module: 'decklink-captions.so'
+16:15:51.382: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+16:15:51.396: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+16:15:51.396: Failed to initialize module 'decklink.so'
+16:15:51.411: [Downstream Keyer] loaded version 0.3.3
+16:15:51.428: Failed to load 'fr-FR' text for module: 'draw-dock.so'
+16:15:51.428: [Draw Dock] loaded version 0.3.1
+16:15:51.580: Failed to load 'fr-FR' text for module: 'gradient-source.so'
+16:15:51.580: [Gradient Source] loaded version 0.3.2
+16:15:51.607: [adv-ss] version: 1.0.0
+16:15:51.607: [adv-ss] version: GITDIR-NOTFOUND
+16:15:51.608: [adv-ss] not using KWin compat
+16:15:51.611: [adv-ss] attempting to load "/usr/lib/x86_64-linux-gnu/obs-plugins/advanced-scene-switcher-plugins/advanced-scene-switcher-usb.so"
+16:15:51.614: [adv-ss] successfully loaded "/usr/lib/x86_64-linux-gnu/obs-plugins/advanced-scene-switcher-plugins/advanced-scene-switcher-usb.so"
+16:15:51.615: [adv-ss] attempting to load "/usr/lib/x86_64-linux-gnu/obs-plugins/advanced-scene-switcher-plugins/advanced-scene-switcher-scripting.so"
+16:15:51.619: [adv-ss] could not resolve obs_script_create symbol!
+16:15:51.619: [adv-ss] could not resolve obs_script_destroy symbol!
+16:15:51.619: [adv-ss] successfully loaded "/usr/lib/x86_64-linux-gnu/obs-plugins/advanced-scene-switcher-plugins/advanced-scene-switcher-scripting.so"
+16:15:51.619: [adv-ss] attempting to load "/usr/lib/x86_64-linux-gnu/obs-plugins/advanced-scene-switcher-plugins/advanced-scene-switcher-stream-deck.so"
+16:15:51.622: [adv-ss] successfully loaded "/usr/lib/x86_64-linux-gnu/obs-plugins/advanced-scene-switcher-plugins/advanced-scene-switcher-stream-deck.so"
+16:15:51.622: [adv-ss] attempting to load "/usr/lib/x86_64-linux-gnu/obs-plugins/advanced-scene-switcher-plugins/advanced-scene-switcher-opencv.so"
+16:15:51.734: [adv-ss] successfully loaded "/usr/lib/x86_64-linux-gnu/obs-plugins/advanced-scene-switcher-plugins/advanced-scene-switcher-opencv.so"
+16:15:51.734: [adv-ss] attempting to load "/usr/lib/x86_64-linux-gnu/obs-plugins/advanced-scene-switcher-plugins/advanced-scene-switcher-base.so"
+16:15:51.751: [adv-ss] successfully loaded "/usr/lib/x86_64-linux-gnu/obs-plugins/advanced-scene-switcher-plugins/advanced-scene-switcher-base.so"
+16:15:51.853: [pipewire] Available capture sources:
+16:15:51.853: [pipewire]     - Monitor source
+16:15:51.853: [pipewire]     - Window source
+16:15:51.874: v4l2loopback not installed, virtual camera not registered
+16:15:51.886: Failed to load 'fr-FR' text for module: 'move-transition.so'
+16:15:51.886: [Move Transition] loaded version 3.1.5
+16:15:51.895: Failed to load 'fr-FR' text for module: 'noise.so'
+16:15:51.895: [Noise] loaded version 1.0.0
+16:15:52.128: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+16:15:52.128: FFmpeg VAAPI H264 encoding not supported
+16:15:52.128: VAAPI: Failed to initialize display in vaapi_device_av1_supported
+16:15:52.128: FFmpeg VAAPI AV1 encoding not supported
+16:15:52.128: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+16:15:52.128: FFmpeg VAAPI HEVC encoding not supported
+16:15:52.187: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.5.2 | RPC Version: 1)
+16:15:52.187: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.9.2 | Qt version (run-time): 6.9.2
+16:15:52.187: [obs-websocket] [obs_module_load] Linked ASIO Version: 103002
+16:15:52.198: [obs-websocket] [obs_module_load] Module loaded.
+16:15:52.219: Failed to load 'fr-FR' text for module: 'retro-effects.so'
+16:15:52.219: [Retro Effects] loaded version 1.0.2
+16:15:52.239: Failed to load 'fr-FR' text for module: 'scene-as-transition.so'
+16:15:52.239: [StreamUP Scene as Transition] loaded version 1.2.1
+16:15:52.239: [StreamUP Scene as Transition] Current module binary path: /usr/lib/x86_64-linux-gnu/obs-plugins/scene-as-transition.so
+16:15:52.239: [StreamUP Scene as Transition] Checking for old plugin in: /usr/lib/x86_64-linux-gnu/obs-plugins/
+16:15:52.239: [StreamUP Scene as Transition] Checking for: /usr/lib/x86_64-linux-gnu/obs-plugins/scene-as-transition.dll
+16:15:52.239: [StreamUP Scene as Transition] Checking for: /usr/lib/x86_64-linux-gnu/obs-plugins/obs-scene-as-transition.dll
+16:15:52.239: [StreamUP Scene as Transition] Checking for: /usr/lib/x86_64-linux-gnu/obs-plugins/SceneAsTransition.dll
+16:15:52.239: [StreamUP Scene as Transition] No old plugin file found in binary directory
+16:15:52.252: Failed to load 'fr-FR' text for module: 'scene-collection-manager.so'
+16:15:52.252: [Scene Collection Manager] loaded version 0.1.2
+16:15:52.252: [Aitum Multistream] use global config
+16:15:52.263: Failed to load 'fr-FR' text for module: 'scene-notes-dock.so'
+16:15:52.263: [Scene Notes Dock] loaded version 0.2.0
+16:15:52.275: Failed to load 'fr-FR' text for module: 'source-clone.so'
+16:15:52.275: [Source Clone] loaded version 0.1.5
+16:15:52.288: Failed to load 'fr-FR' text for module: 'source-copy.so'
+16:15:52.288: [Source Copy] loaded version 0.2.5
+16:15:52.300: Failed to load 'fr-FR' text for module: 'stroke-glow-shadow.so'
+16:15:52.300: [Stroke Glow Shadow] loaded version 1.5.3
+16:15:52.325: Failed to load 'fr-FR' text for module: 'time-source.so'
+16:15:52.339: Failed to load 'fr-FR' text for module: 'transition-table.so'
+16:15:52.339: [Transition Table] loaded version 0.2.7
+16:15:52.351: Failed to load 'fr-FR' text for module: 'vintage-filter.so'
+16:15:52.371: [vlc-video]: VLC 3.0.23 Vetinari found, VLC video source enabled
+16:15:52.371: ---------------------------------
+16:15:52.371:   Loaded Modules:
+16:15:52.371:     vlc-video.so
+16:15:52.371:     vintage-filter.so
+16:15:52.371:     transition-table.so
+16:15:52.371:     time-source.so
+16:15:52.371:     text-freetype2.so
+16:15:52.371:     stroke-glow-shadow.so
+16:15:52.371:     source-copy.so
+16:15:52.371:     source-clone.so
+16:15:52.371:     scene-notes-dock.so
+16:15:52.371:     scene-collection-manager.so
+16:15:52.371:     scene-as-transition.so
+16:15:52.371:     rtmp-services.so
+16:15:52.371:     retro-effects.so
+16:15:52.371:     obs-x264.so
+16:15:52.371:     obs-websocket.so
+16:15:52.371:     obs-transitions.so
+16:15:52.371:     obs-outputs.so
+16:15:52.371:     obs-filters.so
+16:15:52.371:     obs-ffmpeg.so
+16:15:52.371:     noise.so
+16:15:52.371:     move-transition.so
+16:15:52.371:     linux-v4l2.so
+16:15:52.371:     linux-pulseaudio.so
+16:15:52.371:     linux-pipewire.so
+16:15:52.371:     linux-pipewire-audio.so
+16:15:52.371:     linux-jack.so
+16:15:52.371:     linux-capture.so
+16:15:52.371:     linux-alsa.so
+16:15:52.371:     libadvanced-scene-switcher.so
+16:15:52.371:     image-source.so
+16:15:52.371:     gradient-source.so
+16:15:52.371:     frontend-tools.so
+16:15:52.371:     draw-dock.so
+16:15:52.371:     downstream-keyer.so
+16:15:52.371:     decklink-output-ui.so
+16:15:52.371:     decklink-captions.so
+16:15:52.371:     command-source.so
+16:15:52.371:     color-monitor.so
+16:15:52.371:     ashmanix-countdown.so
+16:15:52.371:     ashmanix-blur-filter.so
+16:15:52.371:     advanced-masks.so
+16:15:52.371:     3d-effect.so
+16:15:52.371: ---------------------------------
+16:15:52.373: ---------------------------------
+16:15:52.373: Available Encoders:
+16:15:52.373:   Video Encoders:
+16:15:52.373: 	- ffmpeg_svt_av1 (SVT-AV1)
+16:15:52.373: 	- ffmpeg_aom_av1 (AOM AV1)
+16:15:52.373: 	- obs_x264 (x264)
+16:15:52.373:   Audio Encoders:
+16:15:52.373: 	- ffmpeg_aac (FFmpeg AAC)
+16:15:52.373: 	- ffmpeg_opus (FFmpeg Opus)
+16:15:52.373: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+16:15:52.373: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+16:15:52.373: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+16:15:52.373: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+16:15:52.373: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+16:15:52.373: ==== Startup complete ===============================================
+16:15:52.444: All scene data cleared
+16:15:52.444: ------------------------------------------------
+16:15:52.449: pulse-input: Server name: 'PulseAudio (on PipeWire 1.4.10) 15.0.0'
+16:15:52.449: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+16:15:52.449: pulse-input: Started recording from 'alsa_output.pci-0000_00_1f.3.analog-stereo.monitor' (default)
+16:15:52.449: [Loaded global audio device]: 'Audio du bureau'
+16:15:52.450: pulse-input: Server name: 'PulseAudio (on PipeWire 1.4.10) 15.0.0'
+16:15:52.450: pulse-input: Audio format: s16le, 48000 Hz, 1 channels
+16:15:52.450: pulse-input: Started recording from 'alsa_input.usb-H264_USB_Camera_H264_USB_Camera_2020032801-03.mono-fallback' (default)
+16:15:52.450: [Loaded global audio device]: 'Mic/Aux'
+16:15:52.451: pulse-input: Server name: 'PulseAudio (on PipeWire 1.4.10) 15.0.0'
+16:15:52.451: pulse-input: Audio format: s16le, 48000 Hz, 1 channels
+16:15:52.451: pulse-input: Started recording from 'alsa_input.usb-Generalplus_Usb_Audio_Device-00.mono-fallback'
+16:15:52.452: v4l2-input: Start capture from /dev/v4l/by-id/usb-H264_USB_Camera_H264_USB_Camera_2020032801-video-index2
+16:15:52.573: v4l2-input: Input: 0
+16:15:52.609: v4l2-input: Resolution: 1920x1080
+16:15:52.609: v4l2-input: Pixelformat: H264
+16:15:52.609: v4l2-input: Linesize: 3840 Bytes
+16:15:52.627: v4l2-input: Framerate: 30.00 fps
+16:15:52.650: v4l2-input: /dev/v4l/by-id/usb-H264_USB_Camera_H264_USB_Camera_2020032801-video-index2: select timeout set to 166666 (5x frame periods)
+16:15:52.717: PipeWire initialized
+16:15:52.718: PipeWire initialized
+16:15:52.718: PipeWire initialized
+16:15:52.718: PipeWire initialized
+16:15:52.729: Switched to scene 'Main'
+16:15:52.733: [adv-ss] started
+16:15:52.739: [color-monitor] save_load_scope_docks saving=0
+16:15:52.739: ------------------------------------------------
+16:15:52.740: Loaded scenes:
+16:15:52.740: - scene 'Main':
+16:15:52.740:     - source: 'mic' (pulse_input_capture)
+16:15:52.740:         - filter: 'Suppression du bruit' (noise_suppress_filter_v2)
+16:15:52.740:         - filter: 'Compresseur' (compressor_filter)
+16:15:52.740:     - source: 'cam' (v4l2_input)
+16:15:52.740:         - filter: 'Accentuer' (sharpness_filter_v2)
+16:15:52.740:         - filter: 'Correction des couleurs' (color_filter_v2)
+16:15:52.740:     - source: 'back' (image_source)
+16:15:52.740:         - filter: 'Correction des couleurs' (color_filter_v2)
+16:15:52.740:     - source: 'Titre' (text_ft2_source_v2)
+16:15:52.740:     - source: 'PIP' (pipewire-screen-capture-source)
+16:15:52.740:     - source: 'ecran' (pipewire-screen-capture-source)
+16:15:52.740:     - source: 'clavier' (pipewire-screen-capture-source)
+16:15:52.740: - scene 'Cam fullscreen':
+16:15:52.740:     - source: 'cam' (v4l2_input)
+16:15:52.740:         - filter: 'Accentuer' (sharpness_filter_v2)
+16:15:52.740:         - filter: 'Correction des couleurs' (color_filter_v2)
+16:15:52.740:     - source: 'mic' (pulse_input_capture)
+16:15:52.740:         - filter: 'Suppression du bruit' (noise_suppress_filter_v2)
+16:15:52.740:         - filter: 'Compresseur' (compressor_filter)
+16:15:52.740:     - source: 'black' (image_source)
+16:15:52.740:         - filter: 'Correction des couleurs' (color_filter_v2)
+16:15:52.740:     - source: 'Titre' (text_ft2_source_v2)
+16:15:52.740: - scene 'PIP fullscreen':
+16:15:52.740:     - source: 'PIP2' (pipewire-screen-capture-source)
+16:15:52.740:     - source: 'mic' (pulse_input_capture)
+16:15:52.740:         - filter: 'Suppression du bruit' (noise_suppress_filter_v2)
+16:15:52.740:         - filter: 'Compresseur' (compressor_filter)
+16:15:52.740:     - source: 'black' (image_source)
+16:15:52.740:         - filter: 'Correction des couleurs' (color_filter_v2)
+16:15:52.740:     - source: 'Titre' (text_ft2_source_v2)
+16:15:52.740: ------------------------------------------------
+16:15:52.852: [pipewire] Screencast session created
+16:15:52.852: [pipewire] Screencast session created
+16:15:52.852: [pipewire] Screencast session created
+16:15:52.852: [pipewire] Screencast session created
+16:15:53.211: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Audio du bureau)
+16:15:53.211: 
+16:15:53.603: v4l2-input: /dev/v4l/by-id/usb-H264_USB_Camera_H264_USB_Camera_2020032801-video-index2: select timed out
+16:15:53.603: v4l2-input: /dev/v4l/by-id/usb-H264_USB_Camera_H264_USB_Camera_2020032801-video-index2: failed to log status
+16:15:54.129: adding 42 milliseconds of audio buffering, total audio buffering is now 64 milliseconds (source: mic)
+16:15:54.129: 
+16:15:56.742: [pipewire] Asking for monitor and window
+16:15:59.200: [pipewire] Asking for monitor and window
+16:16:01.154: [pipewire] Asking for monitor and window
+16:16:02.767: [pipewire] Asking for monitor and window
+16:16:02.773: [pipewire] source selected, setting up screencast
+16:16:02.775: [pipewire] source selected, setting up screencast
+16:16:02.776: [pipewire] source selected, setting up screencast
+16:16:02.786: [pipewire] source selected, setting up screencast
+16:16:02.822: [pipewire] Server version: 1.4.10
+16:16:02.822: [pipewire] Library version: 1.4.10
+16:16:02.822: [pipewire] Header version: 1.4.9
+16:16:02.822: [pipewire] Created stream 0x560a0162e940
+16:16:02.822: [pipewire] Stream 0x560a0162e940 state: "connecting" (error: none)
+16:16:02.823: [pipewire] Playing stream 0x560a0162e940
+16:16:02.823: [pipewire] Stream 0x560a0162e940 state: "paused" (error: none)
+16:16:02.828: [pipewire] Server version: 1.4.10
+16:16:02.828: [pipewire] Library version: 1.4.10
+16:16:02.828: [pipewire] Header version: 1.4.9
+16:16:02.828: [pipewire] Created stream 0x560a0166b410
+16:16:02.828: [pipewire] Stream 0x560a0166b410 state: "connecting" (error: none)
+16:16:02.828: [pipewire] Playing stream 0x560a0166b410
+16:16:02.828: [pipewire] Stream 0x560a0166b410 state: "paused" (error: none)
+16:16:02.830: [pipewire] Server version: 1.4.10
+16:16:02.830: [pipewire] Library version: 1.4.10
+16:16:02.830: [pipewire] Header version: 1.4.9
+16:16:02.830: [pipewire] Created stream 0x560a018ba2d0
+16:16:02.830: [pipewire] Stream 0x560a018ba2d0 state: "connecting" (error: none)
+16:16:02.830: [pipewire] Playing stream 0x560a018ba2d0
+16:16:02.831: [pipewire] Stream 0x560a018ba2d0 state: "paused" (error: none)
+16:16:02.839: [pipewire] Negotiated format:
+16:16:02.839: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:16:02.839: [pipewire]     Modifier: 0x0
+16:16:02.839: [pipewire]     Size: 1680x1050
+16:16:02.839: [pipewire]     Framerate: 0/1
+16:16:02.842: [pipewire] Negotiated format:
+16:16:02.842: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:16:02.842: [pipewire]     Modifier: 0x100000000000004
+16:16:02.842: [pipewire]     Size: 1680x1050
+16:16:02.842: [pipewire]     Framerate: 0/1
+16:16:02.847: [pipewire] Negotiated format:
+16:16:02.847: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:16:02.847: [pipewire]     Modifier: 0x0
+16:16:02.847: [pipewire]     Size: 1680x1050
+16:16:02.847: [pipewire]     Framerate: 0/1
+16:16:02.854: [pipewire] Server version: 1.4.10
+16:16:02.854: [pipewire] Library version: 1.4.10
+16:16:02.854: [pipewire] Header version: 1.4.9
+16:16:02.855: [pipewire] Created stream 0x560a01943aa0
+16:16:02.855: [pipewire] Stream 0x560a01943aa0 state: "connecting" (error: none)
+16:16:02.856: [pipewire] Playing stream 0x560a01943aa0
+16:16:02.870: [pipewire] Stream 0x560a01943aa0 state: "paused" (error: none)
+16:16:02.872: [pipewire] Negotiated format:
+16:16:02.872: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:16:02.872: [pipewire]     Modifier: 0x0
+16:16:02.872: [pipewire]     Size: 1680x1050
+16:16:02.872: [pipewire]     Framerate: 0/1
+16:16:02.873: [pipewire] Negotiated format:
+16:16:02.873: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:16:02.873: [pipewire]     Modifier: 0x100000000000004
+16:16:02.873: [pipewire]     Size: 1680x1050
+16:16:02.873: [pipewire]     Framerate: 0/1
+16:16:02.881: [pipewire] Stream 0x560a0162e940 state: "streaming" (error: none)
+16:16:02.885: [pipewire] Negotiated format:
+16:16:02.885: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:16:02.885: [pipewire]     Modifier: 0x100000000000004
+16:16:02.885: [pipewire]     Size: 1680x1050
+16:16:02.885: [pipewire]     Framerate: 0/1
+16:16:02.897: [pipewire] Stream 0x560a0166b410 state: "streaming" (error: none)
+16:16:02.902: [pipewire] Stream 0x560a018ba2d0 state: "streaming" (error: none)
+16:16:02.916: [pipewire] Negotiated format:
+16:16:02.916: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:16:02.916: [pipewire]     Modifier: 0x0
+16:16:02.916: [pipewire]     Size: 1680x1050
+16:16:02.916: [pipewire]     Framerate: 0/1
+16:16:02.925: [pipewire] Negotiated format:
+16:16:02.925: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:16:02.925: [pipewire]     Modifier: 0x100000000000004
+16:16:02.925: [pipewire]     Size: 1680x1050
+16:16:02.925: [pipewire]     Framerate: 0/1
+16:16:02.927: Cannot create EGLImage: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+16:16:02.929: [pipewire] Renegotiating stream
+16:16:02.929: Cannot create EGLImage: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+16:16:02.929: Cannot create EGLImage: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+16:16:02.929: [pipewire] Renegotiating stream
+16:16:02.930: [pipewire] Renegotiating stream
+16:16:02.932: [pipewire] Stream 0x560a0162e940 state: "paused" (error: none)
+16:16:02.932: [pipewire] Stream 0x560a018ba2d0 state: "paused" (error: none)
+16:16:02.932: [pipewire] Stream 0x560a0166b410 state: "paused" (error: none)
+16:16:02.932: [pipewire] Negotiated format:
+16:16:02.932: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:16:02.932: [pipewire]     Modifier: 0x100000000000004
+16:16:02.932: [pipewire]     Size: 1680x1050
+16:16:02.932: [pipewire]     Framerate: 0/1
+16:16:02.933: [pipewire] Negotiated format:
+16:16:02.933: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:16:02.933: [pipewire]     Modifier: 0x100000000000004
+16:16:02.933: [pipewire]     Size: 1680x1050
+16:16:02.933: [pipewire]     Framerate: 0/1
+16:16:02.959: [pipewire] Negotiated format:
+16:16:02.959: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:16:02.959: [pipewire]     Modifier: 0x100000000000002
+16:16:02.959: [pipewire]     Size: 1680x1050
+16:16:02.959: [pipewire]     Framerate: 0/1
+16:16:02.960: [pipewire] Negotiated format:
+16:16:02.960: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:16:02.960: [pipewire]     Modifier: 0x100000000000002
+16:16:02.960: [pipewire]     Size: 1680x1050
+16:16:02.960: [pipewire]     Framerate: 0/1
+16:16:02.960: [pipewire] Negotiated format:
+16:16:02.960: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:16:02.960: [pipewire]     Modifier: 0x100000000000004
+16:16:02.960: [pipewire]     Size: 1680x1050
+16:16:02.960: [pipewire]     Framerate: 0/1
+16:16:02.961: [pipewire] Stream 0x560a01943aa0 state: "streaming" (error: none)
+16:16:02.963: [pipewire] Negotiated format:
+16:16:02.963: [pipewire] Negotiated format:
+16:16:02.963: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:16:02.963: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:16:02.963: [pipewire] Negotiated format:
+16:16:02.965: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:16:02.965: [pipewire]     Modifier: 0x100000000000002
+16:16:02.965: [pipewire]     Size: 1680x1050
+16:16:02.965: [pipewire]     Framerate: 0/1
+16:16:02.965: [pipewire]     Modifier: 0x100000000000002
+16:16:02.965: [pipewire]     Size: 1680x1050
+16:16:02.965: [pipewire]     Framerate: 0/1
+16:16:02.966: [pipewire]     Modifier: 0x100000000000002
+16:16:02.966: [pipewire]     Size: 1680x1050
+16:16:02.966: [pipewire]     Framerate: 0/1
+16:16:02.967: [pipewire] Negotiated format:
+16:16:02.967: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:16:02.967: [pipewire] Negotiated format:
+16:16:02.967: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:16:02.967: [pipewire]     Modifier: 0x100000000000002
+16:16:02.967: [pipewire]     Size: 1680x1050
+16:16:02.967: [pipewire]     Framerate: 0/1
+16:16:02.967: [pipewire]     Modifier: 0x100000000000002
+16:16:02.969: [pipewire]     Size: 1680x1050
+16:16:02.969: [pipewire]     Framerate: 0/1
+16:16:02.974: [pipewire] Stream 0x560a0166b410 state: "streaming" (error: none)
+16:16:03.002: [pipewire] Stream 0x560a0162e940 state: "streaming" (error: none)
+16:16:03.002: [pipewire] Stream 0x560a018ba2d0 state: "streaming" (error: none)
+16:16:03.002: Cannot create EGLImage: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+16:16:03.002: [pipewire] Renegotiating stream
+16:16:03.003: [pipewire] Stream 0x560a01943aa0 state: "paused" (error: none)
+16:16:03.003: [pipewire] Negotiated format:
+16:16:03.003: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:16:03.003: [pipewire]     Modifier: 0x100000000000004
+16:16:03.003: [pipewire]     Size: 1680x1050
+16:16:03.003: [pipewire]     Framerate: 0/1
+16:16:03.005: [pipewire] Negotiated format:
+16:16:03.005: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:16:03.005: [pipewire]     Modifier: 0x100000000000002
+16:16:03.005: [pipewire]     Size: 1680x1050
+16:16:03.005: [pipewire]     Framerate: 0/1
+16:16:03.015: [pipewire] Stream 0x560a01943aa0 state: "streaming" (error: none)
+16:16:13.504: [pipewire] Stream 0x560a01943aa0 state: "paused" (error: none)
+16:16:16.606: [pipewire] Stream 0x560a0162e940 state: "paused" (error: none)
+16:16:20.941: [pipewire] Stream 0x560a018ba2d0 state: "paused" (error: none)
+16:16:20.943: [pipewire] Stream 0x560a018ba2d0 state: "unconnected" (error: none)
+16:16:20.947: PipeWire initialized
+16:16:20.955: [pipewire] Screencast session created
+16:16:22.868: [pipewire] Asking for monitor and window
+16:16:22.870: [pipewire] source selected, setting up screencast
+16:16:22.875: [pipewire] Server version: 1.4.10
+16:16:22.876: [pipewire] Library version: 1.4.10
+16:16:22.876: [pipewire] Header version: 1.4.9
+16:16:22.876: [pipewire] Created stream 0x560a018bd070
+16:16:22.876: [pipewire] Stream 0x560a018bd070 state: "connecting" (error: none)
+16:16:22.876: [pipewire] Playing stream 0x560a018bd070
+16:16:22.876: [pipewire] Stream 0x560a018bd070 state: "paused" (error: none)
+16:16:22.911: [pipewire] Negotiated format:
+16:16:22.911: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:16:22.911: [pipewire]     Modifier: 0x0
+16:16:22.911: [pipewire]     Size: 1280x1024
+16:16:22.911: [pipewire]     Framerate: 0/1
+16:16:22.918: [pipewire] Negotiated format:
+16:16:22.918: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:16:22.918: [pipewire]     Modifier: 0x100000000000004
+16:16:22.918: [pipewire]     Size: 1280x1024
+16:16:22.918: [pipewire]     Framerate: 0/1
+16:16:22.924: [pipewire] Stream 0x560a018bd070 state: "streaming" (error: none)
+16:16:24.400: [color-monitor] save_load_scope_docks saving=1
+16:16:24.430: Cannot create EGLImage: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+16:16:24.430: [pipewire] Renegotiating stream
+16:16:24.430: [pipewire] Stream 0x560a018bd070 state: "paused" (error: none)
+16:16:24.430: [pipewire] Negotiated format:
+16:16:24.430: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:16:24.430: [pipewire]     Modifier: 0x100000000000004
+16:16:24.430: [pipewire]     Size: 1280x1024
+16:16:24.430: [pipewire]     Framerate: 0/1
+16:16:24.438: [pipewire] Negotiated format:
+16:16:24.438: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:16:24.438: [pipewire]     Modifier: 0x100000000000002
+16:16:24.438: [pipewire]     Size: 1280x1024
+16:16:24.438: [pipewire]     Framerate: 0/1
+16:16:24.447: [pipewire] Negotiated format:
+16:16:24.447: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:16:24.447: [pipewire]     Modifier: 0x100000000000002
+16:16:24.447: [pipewire]     Size: 1280x1024
+16:16:24.448: [pipewire]     Framerate: 0/1
+16:16:24.457: [pipewire] Negotiated format:
+16:16:24.458: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:16:24.458: [pipewire]     Modifier: 0x100000000000002
+16:16:24.458: [pipewire]     Size: 1280x1024
+16:16:24.458: [pipewire]     Framerate: 0/1
+16:16:24.480: [pipewire] Stream 0x560a018bd070 state: "streaming" (error: none)
+16:16:40.316: [pipewire] Stream 0x560a0162e940 state: "streaming" (error: none)
+16:16:40.994: [pipewire] Stream 0x560a01943aa0 state: "streaming" (error: none)
+16:17:08.263: adding 106 milliseconds of audio buffering, total audio buffering is now 170 milliseconds (source: mic)
+16:17:08.263: 
+16:17:14.697: [pipewire] Stream 0x560a0166b410 state: "paused" (error: none)
+16:17:14.698: [pipewire] Stream 0x560a018bd070 state: "paused" (error: none)
+16:17:14.699: [pipewire] Negotiated format:
+16:17:14.699: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:17:14.699: [pipewire]     Modifier: 0x100000000000002
+16:17:14.699: [pipewire]     Size: 1280x1024
+16:17:14.699: [pipewire]     Framerate: 0/1
+16:17:14.702: [pipewire] Stream 0x560a01943aa0 state: "paused" (error: none)
+16:17:14.704: [pipewire] Stream 0x560a0162e940 state: "paused" (error: none)
+16:17:14.706: [pipewire] Negotiated format:
+16:17:14.707: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:17:14.707: [pipewire]     Modifier: 0x100000000000002
+16:17:14.707: [pipewire]     Size: 1680x1050
+16:17:14.707: [pipewire]     Framerate: 0/1
+16:17:14.709: [pipewire] Negotiated format:
+16:17:14.711: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:17:14.711: [pipewire]     Modifier: 0x100000000000002
+16:17:14.711: [pipewire]     Size: 1280x1024
+16:17:14.711: [pipewire]     Framerate: 0/1
+16:17:14.723: [pipewire] Negotiated format:
+16:17:14.723: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:17:14.723: [pipewire]     Modifier: 0x100000000000002
+16:17:14.723: [pipewire]     Size: 1680x1050
+16:17:14.723: [pipewire]     Framerate: 0/1
+16:17:14.724: [pipewire] Negotiated format:
+16:17:14.724: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:17:14.724: [pipewire]     Modifier: 0x100000000000002
+16:17:14.724: [pipewire]     Size: 1680x1050
+16:17:14.724: [pipewire]     Framerate: 0/1
+16:17:14.726: [pipewire] Negotiated format:
+16:17:14.726: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:17:14.726: [pipewire]     Modifier: 0x100000000000002
+16:17:14.726: [pipewire]     Size: 1280x1024
+16:17:14.726: [pipewire]     Framerate: 0/1
+16:17:14.731: [pipewire] Negotiated format:
+16:17:14.731: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:17:14.731: [pipewire]     Modifier: 0x100000000000002
+16:17:14.731: [pipewire]     Size: 1680x1050
+16:17:14.731: [pipewire]     Framerate: 0/1
+16:17:14.751: [pipewire] Negotiated format:
+16:17:14.751: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:17:14.751: [pipewire]     Modifier: 0x100000000000002
+16:17:14.751: [pipewire]     Size: 1680x1050
+16:17:14.751: [pipewire]     Framerate: 0/1
+16:17:14.755: [pipewire] Negotiated format:
+16:17:14.756: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:17:14.756: [pipewire]     Modifier: 0x100000000000002
+16:17:14.756: [pipewire]     Size: 1680x1050
+16:17:14.756: [pipewire]     Framerate: 0/1
+16:17:14.802: [pipewire] Stream 0x560a018bd070 state: "streaming" (error: none)
+16:17:14.806: [pipewire] Stream 0x560a01943aa0 state: "streaming" (error: none)
+16:17:14.873: [pipewire] Stream 0x560a0162e940 state: "streaming" (error: none)
+16:17:14.878: [pipewire] Stream 0x560a0166b410 state: "streaming" (error: none)
+16:17:14.954: [pipewire] Stream 0x560a0162e940 state: "paused" (error: none)
+16:17:14.954: [pipewire] Negotiated format:
+16:17:14.954: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:17:14.954: [pipewire]     Modifier: 0x100000000000002
+16:17:14.954: [pipewire]     Size: 1680x1050
+16:17:14.954: [pipewire]     Framerate: 0/1
+16:17:14.955: [pipewire] Negotiated format:
+16:17:14.955: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:17:14.955: [pipewire]     Modifier: 0x100000000000002
+16:17:14.955: [pipewire]     Size: 1680x1050
+16:17:14.955: [pipewire]     Framerate: 0/1
+16:17:14.964: [pipewire] Negotiated format:
+16:17:14.966: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:17:14.966: [pipewire]     Modifier: 0x100000000000002
+16:17:14.966: [pipewire]     Size: 1680x1050
+16:17:14.966: [pipewire]     Framerate: 0/1
+16:17:15.012: [pipewire] Stream 0x560a0162e940 state: "streaming" (error: none)
+16:17:15.586: [pipewire] Stream 0x560a0166b410 state: "paused" (error: none)
+16:17:15.586: [pipewire] Negotiated format:
+16:17:15.586: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:17:15.586: [pipewire]     Modifier: 0x100000000000002
+16:17:15.586: [pipewire]     Size: 1680x1050
+16:17:15.586: [pipewire]     Framerate: 0/1
+16:17:15.602: [pipewire] Negotiated format:
+16:17:15.602: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:17:15.602: [pipewire]     Modifier: 0x100000000000002
+16:17:15.602: [pipewire]     Size: 1680x1050
+16:17:15.602: [pipewire]     Framerate: 0/1
+16:17:15.603: [pipewire] Negotiated format:
+16:17:15.603: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:17:15.603: [pipewire]     Modifier: 0x100000000000002
+16:17:15.603: [pipewire]     Size: 1680x1050
+16:17:15.603: [pipewire]     Framerate: 0/1
+16:17:15.609: [pipewire] Negotiated format:
+16:17:15.609: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:17:15.609: [pipewire]     Modifier: 0x100000000000002
+16:17:15.609: [pipewire]     Size: 1680x1050
+16:17:15.609: [pipewire]     Framerate: 0/1
+16:17:15.635: [pipewire] Stream 0x560a0166b410 state: "streaming" (error: none)
+16:17:18.070: [pipewire] Stream 0x560a0162e940 state: "paused" (error: none)
+16:17:18.070: [pipewire] Negotiated format:
+16:17:18.070: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:17:18.070: [pipewire]     Modifier: 0x100000000000002
+16:17:18.070: [pipewire]     Size: 1680x1050
+16:17:18.070: [pipewire]     Framerate: 0/1
+16:17:18.098: [pipewire] Negotiated format:
+16:17:18.098: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:17:18.098: [pipewire]     Modifier: 0x100000000000002
+16:17:18.098: [pipewire]     Size: 1680x1050
+16:17:18.098: [pipewire]     Framerate: 0/1
+16:17:18.098: [pipewire] Negotiated format:
+16:17:18.098: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:17:18.098: [pipewire]     Modifier: 0x100000000000002
+16:17:18.098: [pipewire]     Size: 1680x1050
+16:17:18.098: [pipewire]     Framerate: 0/1
+16:17:18.177: [pipewire] Negotiated format:
+16:17:18.177: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:17:18.177: [pipewire]     Modifier: 0x100000000000002
+16:17:18.177: [pipewire]     Size: 1680x1050
+16:17:18.177: [pipewire]     Framerate: 0/1
+16:17:18.254: [pipewire] Stream 0x560a0162e940 state: "streaming" (error: none)
+16:18:40.732: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Try to disable surface 0x560a01a5d7d0 with focusing surface 0x5609ff26b130
+16:18:41.846: User Removed source 'clavier' (pipewire-screen-capture-source) from scene 'Main'
+16:18:41.848: [pipewire] Stream 0x560a01943aa0 state: "paused" (error: none)
+16:18:41.849: [pipewire] Stream 0x560a01943aa0 state: "unconnected" (error: none)
+16:18:41.874: [color-monitor] save_load_scope_docks saving=1
+16:18:45.339: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Try to disable surface 0x560a019b9640 with focusing surface 0x5609ff26b130
+16:18:47.389: User Removed source 'ecran' (pipewire-screen-capture-source) from scene 'Main'
+16:18:47.393: [pipewire] Stream 0x560a0162e940 state: "paused" (error: none)
+16:18:47.393: [pipewire] Stream 0x560a0162e940 state: "unconnected" (error: none)
+16:18:47.397: [color-monitor] save_load_scope_docks saving=1
+16:18:52.922: User switched to scene 'PIP fullscreen'
+16:18:53.438: [pipewire] Stream 0x560a018bd070 state: "paused" (error: none)
+16:18:59.679: [color-monitor] save_load_scope_docks saving=1
+16:19:01.062: [color-monitor] save_load_scope_docks saving=1
+16:19:02.901: [color-monitor] save_load_scope_docks saving=1
+16:19:06.592: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Try to disable surface 0x560a017834e0 with focusing surface 0x5609ff26b130
+16:19:08.263: [pipewire] Stream 0x560a0166b410 state: "paused" (error: none)
+16:19:08.265: [pipewire] Stream 0x560a0166b410 state: "unconnected" (error: none)
+16:19:08.266: PipeWire initialized
+16:19:08.280: [pipewire] Screencast session created
+16:19:11.758: [pipewire] Asking for monitor and window
+16:19:11.766: [pipewire] source selected, setting up screencast
+16:19:11.776: [pipewire] Server version: 1.4.10
+16:19:11.776: [pipewire] Library version: 1.4.10
+16:19:11.776: [pipewire] Header version: 1.4.9
+16:19:11.776: [pipewire] Created stream 0x560a01650d30
+16:19:11.776: [pipewire] Stream 0x560a01650d30 state: "connecting" (error: none)
+16:19:11.776: [pipewire] Playing stream 0x560a01650d30
+16:19:11.779: [pipewire] Stream 0x560a01650d30 state: "paused" (error: none)
+16:19:11.790: [pipewire] Negotiated format:
+16:19:11.790: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:19:11.790: [pipewire]     Modifier: 0x0
+16:19:11.790: [pipewire]     Size: 1680x1050
+16:19:11.790: [pipewire]     Framerate: 0/1
+16:19:11.792: [pipewire] Negotiated format:
+16:19:11.792: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:19:11.792: [pipewire]     Modifier: 0x100000000000004
+16:19:11.792: [pipewire]     Size: 1680x1050
+16:19:11.792: [pipewire]     Framerate: 0/1
+16:19:11.803: [pipewire] Stream 0x560a01650d30 state: "streaming" (error: none)
+16:19:11.813: Cannot create EGLImage: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+16:19:11.813: [pipewire] Renegotiating stream
+16:19:11.814: [pipewire] Stream 0x560a01650d30 state: "paused" (error: none)
+16:19:11.814: [pipewire] Negotiated format:
+16:19:11.814: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:19:11.814: [pipewire]     Modifier: 0x100000000000004
+16:19:11.814: [pipewire]     Size: 1680x1050
+16:19:11.814: [pipewire]     Framerate: 0/1
+16:19:11.816: [pipewire] Negotiated format:
+16:19:11.816: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:19:11.816: [pipewire]     Modifier: 0x100000000000002
+16:19:11.816: [pipewire]     Size: 1680x1050
+16:19:11.816: [pipewire]     Framerate: 0/1
+16:19:11.822: [pipewire] Stream 0x560a01650d30 state: "streaming" (error: none)
+16:19:13.484: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Try to disable surface 0x560a017834e0 with focusing surface 0x5609ff26b130
+16:19:13.577: [color-monitor] save_load_scope_docks saving=1
+16:19:21.168: [color-monitor] save_load_scope_docks saving=1
+16:19:22.776: [color-monitor] save_load_scope_docks saving=1
+16:19:24.911: [pipewire] Stream 0x560a01650d30 state: "paused" (error: none)
+16:19:24.913: [pipewire] Stream 0x560a01650d30 state: "unconnected" (error: none)
+16:19:24.918: PipeWire initialized
+16:19:24.926: [pipewire] Screencast session created
+16:19:26.105: [pipewire] Asking for monitor and window
+16:19:26.119: [pipewire] source selected, setting up screencast
+16:19:26.132: [pipewire] Server version: 1.4.10
+16:19:26.132: [pipewire] Library version: 1.4.10
+16:19:26.132: [pipewire] Header version: 1.4.9
+16:19:26.132: [pipewire] Created stream 0x560a01650d30
+16:19:26.132: [pipewire] Stream 0x560a01650d30 state: "connecting" (error: none)
+16:19:26.132: [pipewire] Playing stream 0x560a01650d30
+16:19:26.132: [pipewire] Stream 0x560a01650d30 state: "paused" (error: none)
+16:19:26.137: [pipewire] Negotiated format:
+16:19:26.137: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:19:26.137: [pipewire]     Modifier: 0x0
+16:19:26.137: [pipewire]     Size: 1280x1024
+16:19:26.137: [pipewire]     Framerate: 0/1
+16:19:26.144: [pipewire] Negotiated format:
+16:19:26.144: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:19:26.144: [pipewire]     Modifier: 0x100000000000004
+16:19:26.144: [pipewire]     Size: 1280x1024
+16:19:26.144: [pipewire]     Framerate: 0/1
+16:19:26.153: [pipewire] Stream 0x560a01650d30 state: "streaming" (error: none)
+16:19:27.578: [color-monitor] save_load_scope_docks saving=1
+16:19:27.584: Cannot create EGLImage: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+16:19:27.584: [pipewire] Renegotiating stream
+16:19:27.584: [pipewire] Stream 0x560a01650d30 state: "paused" (error: none)
+16:19:27.584: [pipewire] Negotiated format:
+16:19:27.584: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:19:27.584: [pipewire]     Modifier: 0x100000000000004
+16:19:27.584: [pipewire]     Size: 1280x1024
+16:19:27.584: [pipewire]     Framerate: 0/1
+16:19:27.586: [pipewire] Negotiated format:
+16:19:27.586: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:19:27.586: [pipewire]     Modifier: 0x100000000000002
+16:19:27.586: [pipewire]     Size: 1280x1024
+16:19:27.586: [pipewire]     Framerate: 0/1
+16:19:27.592: [pipewire] Stream 0x560a01650d30 state: "streaming" (error: none)
+16:19:49.356: virtual void QtWaylandClient::QWaylandTextInputv3::enableSurface(wl_surface*) Try to enable surface 0x560a017f2760 with focusing surface 0x5609ff26b130
+16:20:50.961: User switched to scene 'Main'
+16:20:50.983: [pipewire] Stream 0x560a018bd070 state: "streaming" (error: none)
+16:20:51.504: [pipewire] Stream 0x560a01650d30 state: "paused" (error: none)
+16:20:54.846: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Try to disable surface 0x560a01aaf110 with focusing surface 0x5609ff26b130
+16:20:56.459: [color-monitor] save_load_scope_docks saving=1
+16:20:57.408: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Try to disable surface 0x560a01b1c7d0 with focusing surface 0x5609ff26b130
+16:21:27.425: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Try to disable surface 0x560a01894df0 with focusing surface 0x5609ff26b130
+16:21:28.616: [color-monitor] save_load_scope_docks saving=1
+16:21:29.641: virtual void QtWaylandClient::QWaylandTextInputv3::enableSurface(wl_surface*) Try to enable surface 0x560a017d7500 with focusing surface 0x5609ff26b130
+16:22:36.369: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Try to disable surface 0x560a0199db30 with focusing surface 0x5609ff26b130
+16:22:37.768: User Removed source 'PIP' (pipewire-screen-capture-source) from scene 'Main'
+16:22:37.775: [pipewire] Stream 0x560a018bd070 state: "paused" (error: none)
+16:22:37.775: [pipewire] Stream 0x560a018bd070 state: "unconnected" (error: none)
+16:22:37.776: [color-monitor] save_load_scope_docks saving=1
+16:22:38.893: User switched to scene 'PIP fullscreen'
+16:22:38.926: [pipewire] Stream 0x560a01650d30 state: "streaming" (error: none)
+16:22:41.126: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Try to disable surface 0x560a01828ab0 with focusing surface 0x5609ff26b130
+16:22:42.288: User Removed source 'PIP2' (pipewire-screen-capture-source) from scene 'PIP fullscreen'
+16:22:42.289: [pipewire] Stream 0x560a01650d30 state: "paused" (error: none)
+16:22:42.290: [pipewire] Stream 0x560a01650d30 state: "unconnected" (error: none)
+16:22:42.296: [color-monitor] save_load_scope_docks saving=1
+16:22:48.238: User switched to scene 'Main'
+16:22:52.268: [color-monitor] save_load_scope_docks saving=1
+16:22:55.267: [color-monitor] save_load_scope_docks saving=1
+16:22:56.430: User switched to scene 'PIP fullscreen'
+16:22:59.023: [color-monitor] save_load_scope_docks saving=1
+16:23:02.318: [color-monitor] save_load_scope_docks saving=1
+16:23:03.445: User switched to scene 'Cam fullscreen'
+16:23:07.357: [color-monitor] save_load_scope_docks saving=1
+16:23:10.521: [color-monitor] save_load_scope_docks saving=1
+16:23:11.206: User switched to scene 'PIP fullscreen'
+16:23:12.998: User switched to scene 'Cam fullscreen'
+16:23:13.586: User switched to scene 'Main'
+16:23:16.181: User switched to scene 'PIP fullscreen'
+16:23:18.911: User switched to scene 'Main'
+16:23:29.628: virtual void QtWaylandClient::QWaylandTextInputv3::enableSurface(wl_surface*) Try to enable surface 0x560a010708a0 with focusing surface 0x5609ff26b130
+16:23:35.324: PipeWire initialized
+16:23:35.333: User added source 'PIP' (pipewire-screen-capture-source) to scene 'Main'
+16:23:35.350: [color-monitor] save_load_scope_docks saving=1
+16:23:35.365: [pipewire] Screencast session created
+16:23:35.388: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Try to disable surface 0x560a01a33330 with focusing surface 0x5609ff26b130
+16:23:37.778: [pipewire] Asking for monitor and window
+16:23:37.821: [pipewire] source selected, setting up screencast
+16:23:37.835: [pipewire] Server version: 1.4.10
+16:23:37.835: [pipewire] Library version: 1.4.10
+16:23:37.835: [pipewire] Header version: 1.4.9
+16:23:37.835: [pipewire] Created stream 0x560a017c5070
+16:23:37.835: [pipewire] Stream 0x560a017c5070 state: "connecting" (error: none)
+16:23:37.836: [pipewire] Playing stream 0x560a017c5070
+16:23:37.836: [pipewire] Stream 0x560a017c5070 state: "paused" (error: none)
+16:23:37.851: [pipewire] Negotiated format:
+16:23:37.851: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:23:37.851: [pipewire]     Modifier: 0x0
+16:23:37.851: [pipewire]     Size: 1280x1024
+16:23:37.851: [pipewire]     Framerate: 0/1
+16:23:37.853: [pipewire] Negotiated format:
+16:23:37.853: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:23:37.853: [pipewire]     Modifier: 0x100000000000004
+16:23:37.853: [pipewire]     Size: 1280x1024
+16:23:37.853: [pipewire]     Framerate: 0/1
+16:23:37.862: [pipewire] Stream 0x560a017c5070 state: "streaming" (error: none)
+16:23:40.054: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Try to disable surface 0x560a01a33330 with focusing surface 0x5609ff26b130
+16:23:40.174: [color-monitor] save_load_scope_docks saving=1
+16:23:40.219: Cannot create EGLImage: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+16:23:40.219: [pipewire] Renegotiating stream
+16:23:40.225: [pipewire] Stream 0x560a017c5070 state: "paused" (error: none)
+16:23:40.225: [pipewire] Negotiated format:
+16:23:40.225: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:23:40.225: [pipewire]     Modifier: 0x100000000000004
+16:23:40.225: [pipewire]     Size: 1280x1024
+16:23:40.225: [pipewire]     Framerate: 0/1
+16:23:40.226: [pipewire] Negotiated format:
+16:23:40.226: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:23:40.226: [pipewire]     Modifier: 0x100000000000002
+16:23:40.226: [pipewire]     Size: 1280x1024
+16:23:40.226: [pipewire]     Framerate: 0/1
+16:23:40.229: [pipewire] Negotiated format:
+16:23:40.229: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:23:40.229: [pipewire]     Modifier: 0x100000000000002
+16:23:40.229: [pipewire]     Size: 1280x1024
+16:23:40.229: [pipewire]     Framerate: 0/1
+16:23:40.234: [pipewire] Negotiated format:
+16:23:40.234: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:23:40.234: [pipewire]     Modifier: 0x100000000000002
+16:23:40.234: [pipewire]     Size: 1280x1024
+16:23:40.234: [pipewire]     Framerate: 0/1
+16:23:40.244: [pipewire] Stream 0x560a017c5070 state: "streaming" (error: none)
+16:23:46.604: [pipewire] Stream 0x560a017c5070 state: "paused" (error: none)
+16:23:47.404: [pipewire] Stream 0x560a017c5070 state: "streaming" (error: none)
+16:25:23.298: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Try to disable surface 0x5609ff26b130 with focusing surface 0x560a01a40770
+16:26:42.175: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Try to disable surface 0x5609ff26b130 with focusing surface 0x560a01483180
+16:27:30.033: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Try to disable surface 0x5609ff26b130 with focusing surface 0x560a01612a90
+16:28:24.333: virtual void QtWaylandClient::QWaylandTextInputv3::enableSurface(wl_surface*) Try to enable surface 0x560a01a271e0 with focusing surface 0x5609ff26b130
+16:28:57.731: virtual void QtWaylandClient::QWaylandTextInputv3::enableSurface(wl_surface*) Try to enable surface 0x560a017f5330 with focusing surface 0x5609ff26b130
+16:29:48.103: User switched to scene 'PIP fullscreen'
+16:29:48.604: [pipewire] Stream 0x560a017c5070 state: "paused" (error: none)
+16:29:52.842: PipeWire initialized
+16:29:52.845: User added source 'PIP 2' (pipewire-screen-capture-source) to scene 'PIP fullscreen'
+16:29:52.846: [color-monitor] save_load_scope_docks saving=1
+16:29:52.859: [pipewire] Screencast session created
+16:29:54.595: [pipewire] Asking for monitor and window
+16:29:54.598: [pipewire] source selected, setting up screencast
+16:29:54.607: [pipewire] Server version: 1.4.10
+16:29:54.607: [pipewire] Library version: 1.4.10
+16:29:54.607: [pipewire] Header version: 1.4.9
+16:29:54.607: [pipewire] Created stream 0x560a018ba1d0
+16:29:54.607: [pipewire] Stream 0x560a018ba1d0 state: "connecting" (error: none)
+16:29:54.607: [pipewire] Playing stream 0x560a018ba1d0
+16:29:54.609: [pipewire] Stream 0x560a018ba1d0 state: "paused" (error: none)
+16:29:54.625: [pipewire] Negotiated format:
+16:29:54.625: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:29:54.625: [pipewire]     Modifier: 0x0
+16:29:54.625: [pipewire]     Size: 1280x1024
+16:29:54.625: [pipewire]     Framerate: 0/1
+16:29:54.628: [pipewire] Negotiated format:
+16:29:54.628: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:29:54.628: [pipewire]     Modifier: 0x100000000000004
+16:29:54.628: [pipewire]     Size: 1280x1024
+16:29:54.628: [pipewire]     Framerate: 0/1
+16:29:54.634: [pipewire] Stream 0x560a018ba1d0 state: "streaming" (error: none)
+16:30:00.003: Cannot create EGLImage: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+16:30:00.003: [pipewire] Renegotiating stream
+16:30:00.004: [pipewire] Stream 0x560a018ba1d0 state: "paused" (error: none)
+16:30:00.004: [pipewire] Negotiated format:
+16:30:00.004: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:30:00.004: [pipewire]     Modifier: 0x100000000000004
+16:30:00.004: [pipewire]     Size: 1280x1024
+16:30:00.004: [pipewire]     Framerate: 0/1
+16:30:00.008: [pipewire] Negotiated format:
+16:30:00.008: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:30:00.008: [pipewire]     Modifier: 0x100000000000002
+16:30:00.008: [pipewire]     Size: 1280x1024
+16:30:00.008: [pipewire]     Framerate: 0/1
+16:30:00.016: [pipewire] Stream 0x560a018ba1d0 state: "streaming" (error: none)
+16:30:09.092: User switched to scene 'Main'
+16:30:09.122: [pipewire] Stream 0x560a017c5070 state: "streaming" (error: none)
+16:30:09.604: [pipewire] Stream 0x560a018ba1d0 state: "paused" (error: none)
+16:30:09.885: User switched to scene 'Cam fullscreen'
+16:30:10.404: [pipewire] Stream 0x560a017c5070 state: "paused" (error: none)
+16:30:10.487: User switched to scene 'PIP fullscreen'
+16:30:10.505: [pipewire] Stream 0x560a018ba1d0 state: "streaming" (error: none)
+16:30:13.426: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Try to disable surface 0x560a01070380 with focusing surface 0x5609ff26b130
+16:30:28.077: User switched to scene 'Main'
+16:30:28.120: [pipewire] Stream 0x560a017c5070 state: "streaming" (error: none)
+16:30:28.604: [pipewire] Stream 0x560a018ba1d0 state: "paused" (error: none)
+16:30:32.159: User switched to scene 'Cam fullscreen'
+16:30:32.673: [pipewire] Stream 0x560a017c5070 state: "paused" (error: none)
+16:30:33.479: User switched to scene 'PIP fullscreen'
+16:30:33.504: [pipewire] Stream 0x560a018ba1d0 state: "streaming" (error: none)
+16:30:35.848: User switched to scene 'Main'
+16:30:35.871: [pipewire] Stream 0x560a017c5070 state: "streaming" (error: none)
+16:30:36.371: [pipewire] Stream 0x560a018ba1d0 state: "paused" (error: none)
+16:30:45.581: User switched to scene 'PIP fullscreen'
+16:30:45.615: [pipewire] Stream 0x560a018ba1d0 state: "streaming" (error: none)
+16:30:46.105: [pipewire] Stream 0x560a017c5070 state: "paused" (error: none)
+16:30:46.210: User switched to scene 'Cam fullscreen'
+16:30:46.738: [pipewire] Stream 0x560a018ba1d0 state: "paused" (error: none)
+16:30:47.202: User switched to scene 'Main'
+16:30:47.204: [pipewire] Stream 0x560a017c5070 state: "streaming" (error: none)
+16:30:52.522: ==== Shutting down ==================================================
+16:30:52.527: [color-monitor] save_load_scope_docks saving=1
+16:30:52.532: [Draw Dock] Saved settings
+16:30:52.536: [adv-ss] stopped
+16:30:52.536: [adv-ss] reset transition behaviour to adjust active transition type
+16:30:52.536: [adv-ss] started
+16:30:52.536: pulse-input: Stopped recording from 'alsa_output.pci-0000_00_1f.3.analog-stereo.monitor'
+16:30:52.536: pulse-input: Got 35994 packets with 43192800 frames
+16:30:52.537: pulse-input: Stopped recording from 'alsa_input.usb-H264_USB_Camera_H264_USB_Camera_2020032801-03.mono-fallback'
+16:30:52.537: pulse-input: Got 35959 packets with 43150800 frames
+16:30:52.538: [pipewire] Stream 0x560a018ba1d0 state: "unconnected" (error: none)
+16:30:52.541: pulse-input: Stopped recording from 'alsa_input.usb-Generalplus_Usb_Audio_Device-00.mono-fallback'
+16:30:52.541: pulse-input: Got 35958 packets with 43149600 frames
+16:30:52.581: v4l2-input: /dev/v4l/by-id/usb-H264_USB_Camera_H264_USB_Camera_2020032801-video-index2: Stopped capture after 14992 frames
+16:30:52.619: [pipewire] Stream 0x560a017c5070 state: "paused" (error: none)
+16:30:52.620: [pipewire] Stream 0x560a017c5070 state: "unconnected" (error: none)
+16:30:52.646: All scene data cleared
+16:30:52.646: ------------------------------------------------
+16:30:52.672: Tried to call obs_frontend_remove_save_callback with no callbacks!
+16:30:52.672: Tried to call obs_frontend_remove_event_callback with no callbacks!
+16:30:52.675: Tried to call obs_frontend_remove_save_callback with no callbacks!
+16:30:52.675: Tried to call obs_frontend_remove_event_callback with no callbacks!
+16:30:52.756: Tried to call obs_frontend_remove_save_callback with no callbacks!
+16:30:52.756: Tried to call obs_frontend_remove_event_callback with no callbacks!
+16:30:52.756: Tried to call obs_frontend_remove_save_callback with no callbacks!
+16:30:52.756: Tried to call obs_frontend_remove_event_callback with no callbacks!
+16:30:52.756: Tried to call obs_frontend_remove_save_callback with no callbacks!
+16:30:52.763: [obs-websocket] [obs_module_unload] Shutting down...
+16:30:52.763: Tried to call obs_frontend_remove_event_callback with no callbacks!
+16:30:52.763: [obs-websocket] [obs_module_unload] Finished shutting down.
+16:30:52.763: Tried to call obs_frontend_remove_event_callback with no callbacks!
+16:30:52.770: [adv-ss] stopped
+16:30:52.780: [Scripting] Total detached callbacks: 0
+16:30:52.780: Tried to call obs_frontend_remove_dock with no callbacks!
+16:30:52.780: [ashmanix-countdown] plugin unloaded
+16:30:52.780: [ashmanix-blur-filter] plugin unloaded
+16:30:52.780: Freeing OBS context data
+16:30:52.799: == Profiler Results =============================
+16:30:52.799: run_program_init: 2125.86 ms
+16:30:52.799:  ┣OBSApp::AppInit: 33.946 ms
+16:30:52.799:  ┃ ┗OBSApp::InitLocale: 7.889 ms
+16:30:52.799:  ┗OBSApp::OBSInit: 1906.57 ms
+16:30:52.799:    ┣obs_startup: 4.054 ms
+16:30:52.799:    ┗OBSBasic::OBSInit: 1723.76 ms
+16:30:52.799:      ┣OBSBasic::InitBasicConfig: 0.874 ms
+16:30:52.799:      ┣OBSBasic::ResetAudio: 0.574 ms
+16:30:52.799:      ┣OBSBasic::ResetVideo: 118.171 ms
+16:30:52.799:      ┃ ┗obs_init_graphics: 114.163 ms
+16:30:52.799:      ┃   ┗shader compilation: 44.794 ms
+16:30:52.799:      ┣OBSBasic::InitOBSCallbacks: 0.009 ms
+16:30:52.799:      ┣OBSBasic::InitHotkeys: 0.026 ms
+16:30:52.799:      ┣obs_load_all_modules2: 1132.9 ms
+16:30:52.799:      ┃ ┣obs_init_module(3d-effect.so): 0.008 ms
+16:30:52.799:      ┃ ┣obs_init_module(advanced-masks.so): 0.013 ms
+16:30:52.799:      ┃ ┣obs_init_module(ashmanix-blur-filter.so): 0.012 ms
+16:30:52.799:      ┃ ┣obs_init_module(ashmanix-countdown.so): 10.208 ms
+16:30:52.799:      ┃ ┣obs_init_module(color-monitor.so): 0.147 ms
+16:30:52.799:      ┃ ┣obs_init_module(command-source.so): 0.005 ms
+16:30:52.799:      ┃ ┣obs_init_module(decklink-captions.so): 0 ms
+16:30:52.799:      ┃ ┣obs_init_module(decklink-output-ui.so): 0 ms
+16:30:52.799:      ┃ ┣obs_init_module(decklink.so): 0.251 ms
+16:30:52.799:      ┃ ┣obs_init_module(downstream-keyer.so): 3.851 ms
+16:30:52.799:      ┃ ┣obs_init_module(draw-dock.so): 16.159 ms
+16:30:52.799:      ┃ ┣obs_init_module(frontend-tools.so): 106.026 ms
+16:30:52.799:      ┃ ┣obs_init_module(gradient-source.so): 0.014 ms
+16:30:52.799:      ┃ ┣obs_init_module(image-source.so): 0.018 ms
+16:30:52.799:      ┃ ┣obs_init_module(libadvanced-scene-switcher.so): 157.781 ms
+16:30:52.799:      ┃ ┣obs_init_module(linux-alsa.so): 0.007 ms
+16:30:52.799:      ┃ ┣obs_init_module(linux-capture.so): 0.002 ms
+16:30:52.799:      ┃ ┣obs_init_module(linux-jack.so): 0.012 ms
+16:30:52.799:      ┃ ┣obs_init_module(linux-pipewire-audio.so): 0.428 ms
+16:30:52.799:      ┃ ┣obs_init_module(linux-pipewire.so): 20.644 ms
+16:30:52.799:      ┃ ┣obs_init_module(linux-pulseaudio.so): 0.006 ms
+16:30:52.799:      ┃ ┣obs_init_module(linux-v4l2.so): 2.239 ms
+16:30:52.799:      ┃ ┣obs_init_module(move-transition.so): 0.035 ms
+16:30:52.799:      ┃ ┣obs_init_module(noise.so): 0.015 ms
+16:30:52.799:      ┃ ┣obs_init_module(obs-ffmpeg.so): 1.127 ms
+16:30:52.799:      ┃ ┃ ┗nvenc_check: 0.539 ms
+16:30:52.799:      ┃ ┣obs_init_module(obs-filters.so): 0.051 ms
+16:30:52.799:      ┃ ┣obs_init_module(obs-outputs.so): 0.007 ms
+16:30:52.799:      ┃ ┣obs_init_module(obs-transitions.so): 0.019 ms
+16:30:52.799:      ┃ ┣obs_init_module(obs-websocket.so): 11.381 ms
+16:30:52.799:      ┃ ┣obs_init_module(obs-x264.so): 0.003 ms
+16:30:52.799:      ┃ ┣obs_init_module(retro-effects.so): 0.013 ms
+16:30:52.799:      ┃ ┣obs_init_module(rtmp-services.so): 1.22 ms
+16:30:52.799:      ┃ ┣obs_init_module(scene-as-transition.so): 0.058 ms
+16:30:52.799:      ┃ ┣obs_init_module(scene-collection-manager.so): 0.088 ms
+16:30:52.799:      ┃ ┣obs_init_module(scene-notes-dock.so): 1.609 ms
+16:30:52.799:      ┃ ┣obs_init_module(source-clone.so): 0.019 ms
+16:30:52.799:      ┃ ┣obs_init_module(source-copy.so): 0.302 ms
+16:30:52.799:      ┃ ┣obs_init_module(stroke-glow-shadow.so): 0.022 ms
+16:30:52.799:      ┃ ┣obs_init_module(text-freetype2.so): 0.036 ms
+16:30:52.799:      ┃ ┣obs_init_module(time-source.so): 0.01 ms
+16:30:52.799:      ┃ ┣obs_init_module(transition-table.so): 0.097 ms
+16:30:52.799:      ┃ ┣obs_init_module(vintage-filter.so): 0.01 ms
+16:30:52.799:      ┃ ┗obs_init_module(vlc-video.so): 7.189 ms
+16:30:52.799:      ┣OBSBasic::InitService: 2.815 ms
+16:30:52.799:      ┣OBSBasic::ResetOutputs: 0.622 ms
+16:30:52.799:      ┣OBSBasic::CreateHotkeys: 0.038 ms
+16:30:52.799:      ┣OBSBasic::InitPrimitives: 0.155 ms
+16:30:52.799:      ┗OBSBasic::Load: 385.673 ms
+16:30:52.799: obs_hotkey_thread(25 ms): min=0 ms, median=0.001 ms, max=0.457 ms, 99th percentile=0.007 ms, 100% below 25 ms
+16:30:52.799: audio_thread(Audio): min=0.008 ms, median=0.136 ms, max=68.574 ms, 99th percentile=2.823 ms
+16:30:52.799: obs_graphics_thread(33.3333 ms): min=0.106 ms, median=1.809 ms, max=300.816 ms, 99th percentile=9.554 ms, 99.9112% below 33.333 ms
+16:30:52.799:  ┣tick_sources: min=0 ms, median=0.022 ms, max=276.008 ms, 99th percentile=0.13 ms
+16:30:52.799:  ┣output_frame: min=0.076 ms, median=1.169 ms, max=46.016 ms, 99th percentile=6.811 ms
+16:30:52.799:  ┃ ┗gs_context(video->graphics): min=0.076 ms, median=1.168 ms, max=46.011 ms, 99th percentile=6.798 ms
+16:30:52.799:  ┃   ┣render_video: min=0.016 ms, median=0.895 ms, max=45.724 ms, 99th percentile=5.749 ms
+16:30:52.799:  ┃   ┃ ┗render_main_texture: min=0.013 ms, median=0.89 ms, max=45.719 ms, 99th percentile=5.74 ms
+16:30:52.799:  ┃   ┗gs_flush: min=0.049 ms, median=0.253 ms, max=23.669 ms, 99th percentile=1.184 ms
+16:30:52.800:  ┗render_displays: min=0.004 ms, median=0.321 ms, max=93.329 ms, 99th percentile=4.23 ms
+16:30:52.800: =================================================
+16:30:52.800: == Profiler Time Between Calls ==================
+16:30:52.800: obs_hotkey_thread(25 ms): min=25.022 ms, median=25.122 ms, max=36.343 ms, 98.1559% within ±2% of 25 ms (0% lower, 1.8441% higher)
+16:30:52.800: obs_graphics_thread(33.3333 ms): min=8.914 ms, median=33.334 ms, max=300.821 ms, 97.81% within ±2% of 33.333 ms (1.0839% lower, 1.1061% higher)
+16:30:52.800: =================================================
+16:30:52.833: Number of memory leaks: 1
