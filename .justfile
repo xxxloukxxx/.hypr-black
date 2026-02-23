@@ -1,5 +1,14 @@
 set shell := ["bash", "-eu", "-o", "pipefail", "-c"]
 
+@default: testing install-pkg sync-cfg put-conf fonts
+
+@testing:
+    @# Moving to testing
+    sudo rm -fr /etc/apt/sources.list
+    sudo rsync -aq etc/apt/ /etc/apt/
+    sudo apt -y -qq update
+    sudo DEBIAN_FRONTEND=noninteractive apt -y -qq --autoremove full-upgrade
+
 @get-conf:
     @# Get configuration from ~/.config and ~
     rsync -aq ~/.config/dunst ./.config/
@@ -37,7 +46,7 @@ set shell := ["bash", "-eu", "-o", "pipefail", "-c"]
     sudo apt -y -qq install zsh "zsh-*"
     sudo chsh -s /usr/bin/zsh cedric
 
-@sync-cfg
+@sync-cfg:
     @# Sync /etc/ config files
     sudo rsync -aq etc/greetd/ /etc/greetd/
 
