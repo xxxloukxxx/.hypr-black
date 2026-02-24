@@ -42,7 +42,7 @@ set shell := ["bash", "-eu", "-o", "pipefail", "-c"]
     @# Install hyprland and friends ...
     sudo apt -y -qq install rsync wget curl
     sudo apt -y -qq install vim vim-gtk3 make p7zip-full nnn gcc build-essential locales-all fzf tmux silversearcher-ag rsync just zsh zsh-syntax-highlighting zsh-autosuggestions figlet
-    sudo apt -y -qq install firefox-esr firefox-esr-l10n-fr qimgv greetd "fonts-hack*" fonts-agave pulseaudio-utils trash-cli pulseaudio pavucontrol fuzzel greetd p7zip-full foot clang clangd "hypr*" waybar npm dunst pipewire xdg-desktop-portal-hyprland qtwayland5 "qt6-wayland*" jq fnt grimshot mocp
+    sudo apt -y -qq install firefox-esr firefox-esr-l10n-fr qimgv greetd "fonts-hack*" fonts-agave pulseaudio-utils trash-cli pulseaudio pavucontrol fuzzel greetd p7zip-full foot clang clangd "hypr*" waybar npm dunst pipewire xdg-desktop-portal-hyprland qtwayland5 "qt6-wayland*" jq fnt grimshot moc
     sudo apt -y -qq install zsh "zsh-*"
     sudo chsh -s /usr/bin/zsh cedric
 
