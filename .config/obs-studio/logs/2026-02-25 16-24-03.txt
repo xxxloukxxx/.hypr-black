@@ -1,0 +1,509 @@
+16:24:03.994: Platform: Wayland
+16:24:03.994: CPU Name: Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz
+16:24:03.994: CPU Speed: 3600.086MHz
+16:24:03.994: Physical Cores: 4, Logical Cores: 4
+16:24:03.994: Physical Memory: 3783MB Total, 981MB Free
+16:24:03.994: Kernel Version: Linux 6.18.12+deb14-amd64
+16:24:03.994: Distribution: "Debian GNU/Linux" Unknown
+16:24:03.994: Desktop Environment: Hyprland (Hyprland)
+16:24:03.994: Session Type: wayland
+16:24:03.996: Qt Version: 6.9.2 (runtime), 6.9.2 (compiled)
+16:24:03.996: Portable mode: false
+16:24:04.068: OBS 30.2.3.1-3.2 (linux)
+16:24:04.068: ---------------------------------
+16:24:04.068: ---------------------------------
+16:24:04.068: audio settings reset:
+16:24:04.068: 	samples per sec: 48000
+16:24:04.068: 	speakers:        2
+16:24:04.068: 	max buffering:   960 milliseconds
+16:24:04.068: 	buffering type:  dynamically increasing
+16:24:04.070: ---------------------------------
+16:24:04.070: Initializing OpenGL...
+16:24:04.070: Using EGL/Wayland
+16:24:04.116: Initialized EGL 1.5
+16:24:04.133: Loading up OpenGL on adapter Intel Mesa Intel(R) UHD Graphics 630 (CFL GT2)
+16:24:04.133: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 26.0.0-1, shading language 4.60
+16:24:04.165: ---------------------------------
+16:24:04.165: video settings reset:
+16:24:04.165: 	base resolution:   1280x720
+16:24:04.165: 	output resolution: 1280x720
+16:24:04.165: 	downscale filter:  Bicubic
+16:24:04.165: 	fps:               30/1
+16:24:04.165: 	format:            NV12
+16:24:04.165: 	YUV mode:          Rec. 709/Partial
+16:24:04.165: NV12 texture support enabled
+16:24:04.165: P010 texture support not available
+16:24:04.168: Audio monitoring device:
+16:24:04.168: 	name: Par défaut
+16:24:04.168: 	id: default
+16:24:04.168: ---------------------------------
+16:24:04.175: Failed to load 'fr-FR' text for module: '3d-effect.so'
+16:24:04.175: [3D Effect] loaded version 0.1.4
+16:24:04.188: Failed to load 'fr-FR' text for module: 'advanced-masks.so'
+16:24:04.188: [Advanced Masks] loaded version 1.5.4
+16:24:04.207: Failed to load 'fr-FR' text for module: 'ashmanix-blur-filter.so'
+16:24:04.207: [ashmanix-blur-filter] plugin loaded successfully (version 1.1.1)
+16:24:04.213: Failed to load 'fr-FR' text for module: 'ashmanix-countdown.so'
+16:24:04.220: [ashmanix-countdown] plugin loaded successfully (version 2.1.1)
+16:24:04.229: [color-monitor] plugin loaded (plugin version 0.9.5, API version 30.2.3)
+16:24:04.235: Failed to load 'fr-FR' text for module: 'command-source.so'
+16:24:04.242: Failed to load 'en-US' text for module: 'decklink-captions.so'
+16:24:04.248: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+16:24:04.254: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+16:24:04.254: Failed to initialize module 'decklink.so'
+16:24:04.261: [Downstream Keyer] loaded version 0.3.3
+16:24:04.270: Failed to load 'fr-FR' text for module: 'draw-dock.so'
+16:24:04.270: [Draw Dock] loaded version 0.3.1
+16:24:04.324: Failed to load 'fr-FR' text for module: 'gradient-source.so'
+16:24:04.324: [Gradient Source] loaded version 0.3.2
+16:24:04.339: [adv-ss] version: 1.0.0
+16:24:04.339: [adv-ss] version: GITDIR-NOTFOUND
+16:24:04.341: [adv-ss] not using KWin compat
+16:24:04.341: [adv-ss] attempting to load "/usr/lib/x86_64-linux-gnu/obs-plugins/advanced-scene-switcher-plugins/advanced-scene-switcher-usb.so"
+16:24:04.343: [adv-ss] successfully loaded "/usr/lib/x86_64-linux-gnu/obs-plugins/advanced-scene-switcher-plugins/advanced-scene-switcher-usb.so"
+16:24:04.343: [adv-ss] attempting to load "/usr/lib/x86_64-linux-gnu/obs-plugins/advanced-scene-switcher-plugins/advanced-scene-switcher-scripting.so"
+16:24:04.345: [adv-ss] could not resolve obs_script_create symbol!
+16:24:04.345: [adv-ss] could not resolve obs_script_destroy symbol!
+16:24:04.345: [adv-ss] successfully loaded "/usr/lib/x86_64-linux-gnu/obs-plugins/advanced-scene-switcher-plugins/advanced-scene-switcher-scripting.so"
+16:24:04.345: [adv-ss] attempting to load "/usr/lib/x86_64-linux-gnu/obs-plugins/advanced-scene-switcher-plugins/advanced-scene-switcher-stream-deck.so"
+16:24:04.347: [adv-ss] successfully loaded "/usr/lib/x86_64-linux-gnu/obs-plugins/advanced-scene-switcher-plugins/advanced-scene-switcher-stream-deck.so"
+16:24:04.347: [adv-ss] attempting to load "/usr/lib/x86_64-linux-gnu/obs-plugins/advanced-scene-switcher-plugins/advanced-scene-switcher-opencv.so"
+16:24:04.377: [adv-ss] successfully loaded "/usr/lib/x86_64-linux-gnu/obs-plugins/advanced-scene-switcher-plugins/advanced-scene-switcher-opencv.so"
+16:24:04.377: [adv-ss] attempting to load "/usr/lib/x86_64-linux-gnu/obs-plugins/advanced-scene-switcher-plugins/advanced-scene-switcher-base.so"
+16:24:04.381: [adv-ss] successfully loaded "/usr/lib/x86_64-linux-gnu/obs-plugins/advanced-scene-switcher-plugins/advanced-scene-switcher-base.so"
+16:24:04.453: [pipewire] Available capture sources:
+16:24:04.453: [pipewire]     - Monitor source
+16:24:04.453: [pipewire]     - Window source
+16:24:04.471: v4l2loopback not installed, virtual camera not registered
+16:24:04.480: Failed to load 'fr-FR' text for module: 'move-transition.so'
+16:24:04.480: [Move Transition] loaded version 3.1.5
+16:24:04.487: Failed to load 'fr-FR' text for module: 'noise.so'
+16:24:04.487: [Noise] loaded version 1.0.0
+16:24:04.561: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+16:24:04.561: FFmpeg VAAPI H264 encoding not supported
+16:24:04.561: VAAPI: Failed to initialize display in vaapi_device_av1_supported
+16:24:04.561: FFmpeg VAAPI AV1 encoding not supported
+16:24:04.561: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+16:24:04.561: FFmpeg VAAPI HEVC encoding not supported
+16:24:04.602: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.5.2 | RPC Version: 1)
+16:24:04.602: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.9.2 | Qt version (run-time): 6.9.2
+16:24:04.602: [obs-websocket] [obs_module_load] Linked ASIO Version: 103002
+16:24:04.609: [obs-websocket] [obs_module_load] Module loaded.
+16:24:04.628: Failed to load 'fr-FR' text for module: 'retro-effects.so'
+16:24:04.628: [Retro Effects] loaded version 1.0.2
+16:24:04.646: Failed to load 'fr-FR' text for module: 'scene-as-transition.so'
+16:24:04.646: [StreamUP Scene as Transition] loaded version 1.2.1
+16:24:04.646: [StreamUP Scene as Transition] Current module binary path: /usr/lib/x86_64-linux-gnu/obs-plugins/scene-as-transition.so
+16:24:04.646: [StreamUP Scene as Transition] Checking for old plugin in: /usr/lib/x86_64-linux-gnu/obs-plugins/
+16:24:04.646: [StreamUP Scene as Transition] Checking for: /usr/lib/x86_64-linux-gnu/obs-plugins/scene-as-transition.dll
+16:24:04.646: [StreamUP Scene as Transition] Checking for: /usr/lib/x86_64-linux-gnu/obs-plugins/obs-scene-as-transition.dll
+16:24:04.646: [StreamUP Scene as Transition] Checking for: /usr/lib/x86_64-linux-gnu/obs-plugins/SceneAsTransition.dll
+16:24:04.646: [StreamUP Scene as Transition] No old plugin file found in binary directory
+16:24:04.655: Failed to load 'fr-FR' text for module: 'scene-collection-manager.so'
+16:24:04.655: [Scene Collection Manager] loaded version 0.1.2
+16:24:04.655: [Aitum Multistream] use global config
+16:24:04.664: Failed to load 'fr-FR' text for module: 'scene-notes-dock.so'
+16:24:04.664: [Scene Notes Dock] loaded version 0.2.0
+16:24:04.674: Failed to load 'fr-FR' text for module: 'source-clone.so'
+16:24:04.674: [Source Clone] loaded version 0.1.5
+16:24:04.683: Failed to load 'fr-FR' text for module: 'source-copy.so'
+16:24:04.683: [Source Copy] loaded version 0.2.5
+16:24:04.692: Failed to load 'fr-FR' text for module: 'stroke-glow-shadow.so'
+16:24:04.692: [Stroke Glow Shadow] loaded version 1.5.3
+16:24:04.709: Failed to load 'fr-FR' text for module: 'time-source.so'
+16:24:04.718: Failed to load 'fr-FR' text for module: 'transition-table.so'
+16:24:04.718: [Transition Table] loaded version 0.2.7
+16:24:04.727: Failed to load 'fr-FR' text for module: 'vintage-filter.so'
+16:24:04.738: [vlc-video]: VLC 3.0.23 Vetinari found, VLC video source enabled
+16:24:04.738: ---------------------------------
+16:24:04.738:   Loaded Modules:
+16:24:04.738:     vlc-video.so
+16:24:04.738:     vintage-filter.so
+16:24:04.738:     transition-table.so
+16:24:04.738:     time-source.so
+16:24:04.738:     text-freetype2.so
+16:24:04.738:     stroke-glow-shadow.so
+16:24:04.738:     source-copy.so
+16:24:04.738:     source-clone.so
+16:24:04.738:     scene-notes-dock.so
+16:24:04.738:     scene-collection-manager.so
+16:24:04.738:     scene-as-transition.so
+16:24:04.738:     rtmp-services.so
+16:24:04.738:     retro-effects.so
+16:24:04.738:     obs-x264.so
+16:24:04.738:     obs-websocket.so
+16:24:04.738:     obs-transitions.so
+16:24:04.738:     obs-outputs.so
+16:24:04.738:     obs-filters.so
+16:24:04.738:     obs-ffmpeg.so
+16:24:04.738:     noise.so
+16:24:04.738:     move-transition.so
+16:24:04.738:     linux-v4l2.so
+16:24:04.738:     linux-pulseaudio.so
+16:24:04.738:     linux-pipewire.so
+16:24:04.738:     linux-pipewire-audio.so
+16:24:04.738:     linux-jack.so
+16:24:04.738:     linux-capture.so
+16:24:04.738:     linux-alsa.so
+16:24:04.738:     libadvanced-scene-switcher.so
+16:24:04.738:     image-source.so
+16:24:04.738:     gradient-source.so
+16:24:04.738:     frontend-tools.so
+16:24:04.738:     draw-dock.so
+16:24:04.738:     downstream-keyer.so
+16:24:04.738:     decklink-output-ui.so
+16:24:04.738:     decklink-captions.so
+16:24:04.738:     command-source.so
+16:24:04.738:     color-monitor.so
+16:24:04.738:     ashmanix-countdown.so
+16:24:04.738:     ashmanix-blur-filter.so
+16:24:04.738:     advanced-masks.so
+16:24:04.738:     3d-effect.so
+16:24:04.738: ---------------------------------
+16:24:04.739: ---------------------------------
+16:24:04.739: Available Encoders:
+16:24:04.739:   Video Encoders:
+16:24:04.739: 	- ffmpeg_svt_av1 (SVT-AV1)
+16:24:04.739: 	- ffmpeg_aom_av1 (AOM AV1)
+16:24:04.739: 	- obs_x264 (x264)
+16:24:04.739:   Audio Encoders:
+16:24:04.739: 	- ffmpeg_aac (FFmpeg AAC)
+16:24:04.739: 	- ffmpeg_opus (FFmpeg Opus)
+16:24:04.739: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+16:24:04.739: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+16:24:04.739: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+16:24:04.739: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+16:24:04.739: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+16:24:04.739: ==== Startup complete ===============================================
+16:24:04.774: All scene data cleared
+16:24:04.774: ------------------------------------------------
+16:24:04.780: pulse-input: Server name: 'PulseAudio (on PipeWire 1.4.10) 15.0.0'
+16:24:04.780: pulse-input: Audio format: s16le, 48000 Hz, 1 channels
+16:24:04.780: pulse-input: Started recording from 'alsa_input.usb-046d_G435_Wireless_Gaming_Headset_V001008005.1-01.mono-fallback'
+16:24:04.781: v4l2-input: Start capture from /dev/v4l/by-id/usb-H264_USB_Camera_H264_USB_Camera_2020032801-video-index2
+16:24:04.901: v4l2-input: Input: 0
+16:24:04.934: v4l2-input: Resolution: 1920x1080
+16:24:04.934: v4l2-input: Pixelformat: H264
+16:24:04.934: v4l2-input: Linesize: 3840 Bytes
+16:24:04.950: v4l2-input: Framerate: 30.00 fps
+16:24:04.957: v4l2-input: /dev/v4l/by-id/usb-H264_USB_Camera_H264_USB_Camera_2020032801-video-index2: select timeout set to 166666 (5x frame periods)
+16:24:04.977: PipeWire initialized
+16:24:04.977: PipeWire initialized
+16:24:04.978: PipeWire initialized
+16:24:04.981: Switched to scene 'Main'
+16:24:04.985: [adv-ss] started
+16:24:04.987: [color-monitor] save_load_scope_docks saving=0
+16:24:04.987: ------------------------------------------------
+16:24:04.987: Loaded scenes:
+16:24:04.987: - scene 'Main':
+16:24:04.987:     - source: 'mic' (pulse_input_capture)
+16:24:04.987:         - filter: 'Suppression du bruit' (noise_suppress_filter_v2)
+16:24:04.987:         - filter: 'Compresseur' (compressor_filter)
+16:24:04.987:     - source: 'cam' (v4l2_input)
+16:24:04.987:         - filter: 'Accentuer' (sharpness_filter_v2)
+16:24:04.987:         - filter: 'Correction des couleurs' (color_filter_v2)
+16:24:04.987:     - source: 'PIP' (pipewire-screen-capture-source)
+16:24:04.987:     - source: 'back' (image_source)
+16:24:04.987:         - filter: 'Correction des couleurs' (color_filter_v2)
+16:24:04.987:     - source: 'Titre' (text_ft2_source_v2)
+16:24:04.987:     - source: 'Capture d'écran (PipeWire)' (pipewire-screen-capture-source)
+16:24:04.987:     - source: 'Capture d'écran (PipeWire)' (pipewire-screen-capture-source)
+16:24:04.987: - scene 'Cam fullscreen':
+16:24:04.987:     - source: 'cam' (v4l2_input)
+16:24:04.987:         - filter: 'Accentuer' (sharpness_filter_v2)
+16:24:04.987:         - filter: 'Correction des couleurs' (color_filter_v2)
+16:24:04.987:     - source: 'mic' (pulse_input_capture)
+16:24:04.987:         - filter: 'Suppression du bruit' (noise_suppress_filter_v2)
+16:24:04.987:         - filter: 'Compresseur' (compressor_filter)
+16:24:04.987:     - source: 'black' (image_source)
+16:24:04.987:         - filter: 'Correction des couleurs' (color_filter_v2)
+16:24:04.987:     - source: 'Titre' (text_ft2_source_v2)
+16:24:04.987: - scene 'PIP fullscreen':
+16:24:04.987:     - source: 'mic' (pulse_input_capture)
+16:24:04.987:         - filter: 'Suppression du bruit' (noise_suppress_filter_v2)
+16:24:04.987:         - filter: 'Compresseur' (compressor_filter)
+16:24:04.987:     - source: 'PIP 2' (pipewire-screen-capture-source)
+16:24:04.987:     - source: 'black' (image_source)
+16:24:04.987:         - filter: 'Correction des couleurs' (color_filter_v2)
+16:24:04.987:     - source: 'Titre' (text_ft2_source_v2)
+16:24:04.987: ------------------------------------------------
+16:24:05.085: [pipewire] Screencast session created
+16:24:05.085: [pipewire] Screencast session created
+16:24:05.085: [pipewire] Screencast session created
+16:24:05.391: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: mic)
+16:24:05.391: 
+16:24:05.909: v4l2-input: /dev/v4l/by-id/usb-H264_USB_Camera_H264_USB_Camera_2020032801-video-index2: select timed out
+16:24:05.909: v4l2-input: /dev/v4l/by-id/usb-H264_USB_Camera_H264_USB_Camera_2020032801-video-index2: failed to log status
+16:24:08.876: [pipewire] Asking for monitor and window
+16:24:12.091: [pipewire] Asking for monitor and window
+16:24:13.165: [pipewire] Asking for monitor and window
+16:24:13.166: [pipewire] source selected, setting up screencast
+16:24:13.166: [pipewire] source selected, setting up screencast
+16:24:13.171: [pipewire] source selected, setting up screencast
+16:24:13.199: [pipewire] Server version: 1.4.10
+16:24:13.199: [pipewire] Library version: 1.4.10
+16:24:13.199: [pipewire] Header version: 1.4.9
+16:24:13.200: [pipewire] Created stream 0x5630b59b8a40
+16:24:13.200: [pipewire] Stream 0x5630b59b8a40 state: "connecting" (error: none)
+16:24:13.200: [pipewire] Playing stream 0x5630b59b8a40
+16:24:13.201: [pipewire] Stream 0x5630b59b8a40 state: "paused" (error: none)
+16:24:13.203: [pipewire] Server version: 1.4.10
+16:24:13.203: [pipewire] Library version: 1.4.10
+16:24:13.203: [pipewire] Header version: 1.4.9
+16:24:13.203: [pipewire] Created stream 0x5630b5c5ff50
+16:24:13.203: [pipewire] Stream 0x5630b5c5ff50 state: "connecting" (error: none)
+16:24:13.204: [pipewire] Playing stream 0x5630b5c5ff50
+16:24:13.204: [pipewire] Stream 0x5630b5c5ff50 state: "paused" (error: none)
+16:24:13.206: [pipewire] Server version: 1.4.10
+16:24:13.206: [pipewire] Library version: 1.4.10
+16:24:13.206: [pipewire] Header version: 1.4.9
+16:24:13.206: [pipewire] Created stream 0x5630b5f08130
+16:24:13.206: [pipewire] Stream 0x5630b5f08130 state: "connecting" (error: none)
+16:24:13.206: [pipewire] Playing stream 0x5630b5f08130
+16:24:13.207: [pipewire] Stream 0x5630b5f08130 state: "paused" (error: none)
+16:24:13.232: [pipewire] Negotiated format:
+16:24:13.232: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:24:13.232: [pipewire]     Modifier: 0x0
+16:24:13.232: [pipewire]     Size: 1280x1024
+16:24:13.232: [pipewire]     Framerate: 0/1
+16:24:13.233: [pipewire] Negotiated format:
+16:24:13.233: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:24:13.233: [pipewire]     Modifier: 0x100000000000004
+16:24:13.233: [pipewire]     Size: 1280x1024
+16:24:13.233: [pipewire]     Framerate: 0/1
+16:24:13.250: [pipewire] Stream 0x5630b59b8a40 state: "streaming" (error: none)
+16:24:13.253: [pipewire] Negotiated format:
+16:24:13.253: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:24:13.253: [pipewire]     Modifier: 0x0
+16:24:13.253: [pipewire]     Size: 1280x1024
+16:24:13.253: [pipewire]     Framerate: 0/1
+16:24:13.257: [pipewire] Negotiated format:
+16:24:13.257: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:24:13.257: [pipewire]     Modifier: 0x100000000000004
+16:24:13.257: [pipewire]     Size: 1280x1024
+16:24:13.257: [pipewire]     Framerate: 0/1
+16:24:13.267: [pipewire] Negotiated format:
+16:24:13.267: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:24:13.267: [pipewire]     Modifier: 0x0
+16:24:13.267: [pipewire]     Size: 1280x1024
+16:24:13.267: [pipewire]     Framerate: 0/1
+16:24:13.268: [pipewire] Negotiated format:
+16:24:13.268: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:24:13.268: [pipewire]     Modifier: 0x100000000000004
+16:24:13.268: [pipewire]     Size: 1280x1024
+16:24:13.268: [pipewire]     Framerate: 0/1
+16:24:13.281: [pipewire] Stream 0x5630b5c5ff50 state: "streaming" (error: none)
+16:24:13.285: [pipewire] Stream 0x5630b5f08130 state: "streaming" (error: none)
+16:24:13.286: Cannot create EGLImage: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+16:24:13.286: [pipewire] Renegotiating stream
+16:24:13.287: [pipewire] Stream 0x5630b59b8a40 state: "paused" (error: none)
+16:24:13.287: [pipewire] Negotiated format:
+16:24:13.287: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:24:13.287: [pipewire]     Modifier: 0x100000000000004
+16:24:13.287: [pipewire]     Size: 1280x1024
+16:24:13.287: [pipewire]     Framerate: 0/1
+16:24:13.288: [pipewire] Negotiated format:
+16:24:13.288: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:24:13.288: [pipewire]     Modifier: 0x100000000000002
+16:24:13.288: [pipewire]     Size: 1280x1024
+16:24:13.288: [pipewire]     Framerate: 0/1
+16:24:13.297: [pipewire] Stream 0x5630b59b8a40 state: "streaming" (error: none)
+16:24:13.311: Cannot create EGLImage: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+16:24:13.312: [pipewire] Renegotiating stream
+16:24:13.312: Cannot create EGLImage: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+16:24:13.312: [pipewire] Renegotiating stream
+16:24:13.313: [pipewire] Stream 0x5630b5c5ff50 state: "paused" (error: none)
+16:24:13.313: [pipewire] Stream 0x5630b5f08130 state: "paused" (error: none)
+16:24:13.313: [pipewire] Negotiated format:
+16:24:13.313: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:24:13.313: [pipewire]     Modifier: 0x100000000000004
+16:24:13.313: [pipewire]     Size: 1280x1024
+16:24:13.313: [pipewire]     Framerate: 0/1
+16:24:13.320: [pipewire] Negotiated format:
+16:24:13.320: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:24:13.321: [pipewire]     Modifier: 0x100000000000002
+16:24:13.321: [pipewire]     Size: 1280x1024
+16:24:13.321: [pipewire]     Framerate: 0/1
+16:24:13.321: [pipewire] Negotiated format:
+16:24:13.321: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:24:13.321: [pipewire]     Modifier: 0x100000000000004
+16:24:13.321: [pipewire]     Size: 1280x1024
+16:24:13.321: [pipewire]     Framerate: 0/1
+16:24:13.324: [pipewire] Negotiated format:
+16:24:13.324: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:24:13.324: [pipewire]     Modifier: 0x100000000000002
+16:24:13.324: [pipewire]     Size: 1280x1024
+16:24:13.324: [pipewire]     Framerate: 0/1
+16:24:13.325: [pipewire] Negotiated format:
+16:24:13.326: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:24:13.326: [pipewire]     Modifier: 0x100000000000002
+16:24:13.326: [pipewire]     Size: 1280x1024
+16:24:13.326: [pipewire]     Framerate: 0/1
+16:24:13.326: [pipewire] Negotiated format:
+16:24:13.326: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:24:13.326: [pipewire]     Modifier: 0x100000000000002
+16:24:13.326: [pipewire]     Size: 1280x1024
+16:24:13.326: [pipewire]     Framerate: 0/1
+16:24:13.331: [pipewire] Stream 0x5630b5f08130 state: "streaming" (error: none)
+16:24:13.334: [pipewire] Stream 0x5630b5c5ff50 state: "streaming" (error: none)
+16:24:23.564: pulse-am: Server name: 'PulseAudio (on PipeWire 1.4.10) 15.0.0'
+16:24:23.564: pulse-am: Audio format: s16le, 48000 Hz, 2 channels
+16:24:23.565: pulse-am: Started Monitoring in 'alsa_output.usb-046d_G435_Wireless_Gaming_Headset_V001008005.1-01.analog-stereo'
+16:24:23.565: User changed audio monitoring for source 'mic' to: monitor and output
+16:24:26.014: [color-monitor] save_load_scope_docks saving=1
+16:25:04.741: adding 21 milliseconds of audio buffering, total audio buffering is now 64 milliseconds (source: mic)
+16:25:04.741: 
+16:28:21.136: adding 21 milliseconds of audio buffering, total audio buffering is now 85 milliseconds (source: mic)
+16:28:21.136: 
+16:28:21.370: adding 21 milliseconds of audio buffering, total audio buffering is now 106 milliseconds (source: mic)
+16:28:21.370: 
+16:28:24.613: adding 21 milliseconds of audio buffering, total audio buffering is now 128 milliseconds (source: mic)
+16:28:24.613: 
+16:28:24.912: adding 21 milliseconds of audio buffering, total audio buffering is now 149 milliseconds (source: mic)
+16:28:24.912: 
+16:28:29.349: adding 42 milliseconds of audio buffering, total audio buffering is now 192 milliseconds (source: mic)
+16:28:29.349: 
+16:28:29.391: adding 21 milliseconds of audio buffering, total audio buffering is now 213 milliseconds (source: mic)
+16:28:29.391: 
+16:28:29.434: adding 21 milliseconds of audio buffering, total audio buffering is now 234 milliseconds (source: mic)
+16:28:29.434: 
+16:28:36.986: adding 21 milliseconds of audio buffering, total audio buffering is now 256 milliseconds (source: mic)
+16:28:36.986: 
+16:28:37.713: adding 21 milliseconds of audio buffering, total audio buffering is now 277 milliseconds (source: mic)
+16:28:37.713: 
+16:28:38.286: [color-monitor] save_load_scope_docks saving=1
+16:28:38.299: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Try to disable surface 0x5630b3732840 with focusing surface 0x5630b603a7f0
+16:28:56.558: [color-monitor] save_load_scope_docks saving=1
+16:28:56.561: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Try to disable surface 0x5630b3732840 with focusing surface 0x5630b5f9f000
+16:29:06.701: [color-monitor] save_load_scope_docks saving=1
+16:30:54.763: User changed audio monitoring for source 'mic' to: monitor only
+16:30:56.513: pulse-am: Stopped Monitoring in 'alsa_output.usb-046d_G435_Wireless_Gaming_Headset_V001008005.1-01.analog-stereo'
+16:30:56.514: pulse-am: Got 15714 packets with 18856800 frames
+16:30:56.514: User changed audio monitoring for source 'mic' to: none
+16:30:58.051: [color-monitor] save_load_scope_docks saving=1
+16:31:27.356: pulse-am: Server name: 'PulseAudio (on PipeWire 1.4.10) 15.0.0'
+16:31:27.357: pulse-am: Audio format: s16le, 48000 Hz, 2 channels
+16:31:27.357: pulse-am: Started Monitoring in 'alsa_output.usb-046d_G435_Wireless_Gaming_Headset_V001008005.1-01.analog-stereo'
+16:31:27.358: User changed audio monitoring for source 'mic' to: monitor and output
+16:31:28.341: [color-monitor] save_load_scope_docks saving=1
+16:31:36.914: User changed audio monitoring for source 'mic' to: monitor only
+16:31:40.115: pulse-am: Stopped Monitoring in 'alsa_output.usb-046d_G435_Wireless_Gaming_Headset_V001008005.1-01.analog-stereo'
+16:31:40.115: pulse-am: Got 510 packets with 612000 frames
+16:31:40.115: User changed audio monitoring for source 'mic' to: none
+16:31:41.254: [color-monitor] save_load_scope_docks saving=1
+16:31:46.730: ==== Shutting down ==================================================
+16:31:46.736: [color-monitor] save_load_scope_docks saving=1
+16:31:46.749: [Draw Dock] Saved settings
+16:31:46.754: [pipewire] Stream 0x5630b5c5ff50 state: "paused" (error: none)
+16:31:46.754: [adv-ss] stopped
+16:31:46.754: [pipewire] Stream 0x5630b5c5ff50 state: "unconnected" (error: none)
+16:31:46.757: [adv-ss] reset transition behaviour to adjust active transition type
+16:31:46.760: [adv-ss] started
+16:31:46.762: pulse-input: Stopped recording from 'alsa_input.usb-046d_G435_Wireless_Gaming_Headset_V001008005.1-01.mono-fallback'
+16:31:46.762: pulse-input: Got 18472 packets with 22166400 frames
+16:31:46.799: v4l2-input: /dev/v4l/by-id/usb-H264_USB_Camera_H264_USB_Camera_2020032801-video-index2: Stopped capture after 7683 frames
+16:31:46.835: [pipewire] Stream 0x5630b59b8a40 state: "paused" (error: none)
+16:31:46.837: [pipewire] Stream 0x5630b59b8a40 state: "unconnected" (error: none)
+16:31:46.840: [pipewire] Stream 0x5630b5f08130 state: "paused" (error: none)
+16:31:46.841: [pipewire] Stream 0x5630b5f08130 state: "unconnected" (error: none)
+16:31:46.874: All scene data cleared
+16:31:46.874: ------------------------------------------------
+16:31:46.891: Tried to call obs_frontend_remove_save_callback with no callbacks!
+16:31:46.891: Tried to call obs_frontend_remove_event_callback with no callbacks!
+16:31:46.894: Tried to call obs_frontend_remove_save_callback with no callbacks!
+16:31:46.895: Tried to call obs_frontend_remove_event_callback with no callbacks!
+16:31:46.982: Tried to call obs_frontend_remove_save_callback with no callbacks!
+16:31:46.982: Tried to call obs_frontend_remove_event_callback with no callbacks!
+16:31:46.982: Tried to call obs_frontend_remove_save_callback with no callbacks!
+16:31:46.982: Tried to call obs_frontend_remove_event_callback with no callbacks!
+16:31:46.982: Tried to call obs_frontend_remove_save_callback with no callbacks!
+16:31:46.985: [obs-websocket] [obs_module_unload] Shutting down...
+16:31:46.985: Tried to call obs_frontend_remove_event_callback with no callbacks!
+16:31:46.985: [obs-websocket] [obs_module_unload] Finished shutting down.
+16:31:46.986: Tried to call obs_frontend_remove_event_callback with no callbacks!
+16:31:46.988: [adv-ss] stopped
+16:31:47.002: [Scripting] Total detached callbacks: 0
+16:31:47.002: Tried to call obs_frontend_remove_dock with no callbacks!
+16:31:47.003: [ashmanix-countdown] plugin unloaded
+16:31:47.003: [ashmanix-blur-filter] plugin unloaded
+16:31:47.003: Freeing OBS context data
+16:31:47.022: == Profiler Results =============================
+16:31:47.022: run_program_init: 1132.33 ms
+16:31:47.022:  ┣OBSApp::AppInit: 15.011 ms
+16:31:47.022:  ┃ ┗OBSApp::InitLocale: 1.564 ms
+16:31:47.022:  ┗OBSApp::OBSInit: 1081.19 ms
+16:31:47.022:    ┣obs_startup: 1.708 ms
+16:31:47.022:    ┗OBSBasic::OBSInit: 1007.21 ms
+16:31:47.022:      ┣OBSBasic::InitBasicConfig: 0.114 ms
+16:31:47.022:      ┣OBSBasic::ResetAudio: 0.254 ms
+16:31:47.022:      ┣OBSBasic::ResetVideo: 99.475 ms
+16:31:47.022:      ┃ ┗obs_init_graphics: 96.78 ms
+16:31:47.022:      ┃   ┗shader compilation: 31.33 ms
+16:31:47.022:      ┣OBSBasic::InitOBSCallbacks: 0.012 ms
+16:31:47.022:      ┣OBSBasic::InitHotkeys: 0.042 ms
+16:31:47.022:      ┣obs_load_all_modules2: 570.32 ms
+16:31:47.022:      ┃ ┣obs_init_module(3d-effect.so): 0.011 ms
+16:31:47.022:      ┃ ┣obs_init_module(advanced-masks.so): 0.013 ms
+16:31:47.022:      ┃ ┣obs_init_module(ashmanix-blur-filter.so): 0.01 ms
+16:31:47.022:      ┃ ┣obs_init_module(ashmanix-countdown.so): 6.482 ms
+16:31:47.022:      ┃ ┣obs_init_module(color-monitor.so): 0.116 ms
+16:31:47.022:      ┃ ┣obs_init_module(command-source.so): 0.004 ms
+16:31:47.022:      ┃ ┣obs_init_module(decklink-captions.so): 0 ms
+16:31:47.022:      ┃ ┣obs_init_module(decklink-output-ui.so): 0 ms
+16:31:47.022:      ┃ ┣obs_init_module(decklink.so): 0.128 ms
+16:31:47.022:      ┃ ┣obs_init_module(downstream-keyer.so): 1.645 ms
+16:31:47.022:      ┃ ┣obs_init_module(draw-dock.so): 8.726 ms
+16:31:47.022:      ┃ ┣obs_init_module(frontend-tools.so): 30.013 ms
+16:31:47.022:      ┃ ┣obs_init_module(gradient-source.so): 0.013 ms
+16:31:47.022:      ┃ ┣obs_init_module(image-source.so): 0.013 ms
+16:31:47.022:      ┃ ┣obs_init_module(libadvanced-scene-switcher.so): 52.395 ms
+16:31:47.022:      ┃ ┣obs_init_module(linux-alsa.so): 0.005 ms
+16:31:47.022:      ┃ ┣obs_init_module(linux-capture.so): 0.001 ms
+16:31:47.022:      ┃ ┣obs_init_module(linux-jack.so): 0.005 ms
+16:31:47.022:      ┃ ┣obs_init_module(linux-pipewire-audio.so): 0.3 ms
+16:31:47.023:      ┃ ┣obs_init_module(linux-pipewire.so): 16.312 ms
+16:31:47.023:      ┃ ┣obs_init_module(linux-pulseaudio.so): 0.007 ms
+16:31:47.023:      ┃ ┣obs_init_module(linux-v4l2.so): 2.126 ms
+16:31:47.023:      ┃ ┣obs_init_module(move-transition.so): 0.035 ms
+16:31:47.023:      ┃ ┣obs_init_module(noise.so): 0.012 ms
+16:31:47.023:      ┃ ┣obs_init_module(obs-ffmpeg.so): 1.02 ms
+16:31:47.023:      ┃ ┃ ┗nvenc_check: 0.513 ms
+16:31:47.023:      ┃ ┣obs_init_module(obs-filters.so): 0.052 ms
+16:31:47.023:      ┃ ┣obs_init_module(obs-outputs.so): 0.005 ms
+16:31:47.023:      ┃ ┣obs_init_module(obs-transitions.so): 0.012 ms
+16:31:47.023:      ┃ ┣obs_init_module(obs-websocket.so): 7.463 ms
+16:31:47.023:      ┃ ┣obs_init_module(obs-x264.so): 0.003 ms
+16:31:47.023:      ┃ ┣obs_init_module(retro-effects.so): 0.018 ms
+16:31:47.023:      ┃ ┣obs_init_module(rtmp-services.so): 0.331 ms
+16:31:47.023:      ┃ ┣obs_init_module(scene-as-transition.so): 0.055 ms
+16:31:47.023:      ┃ ┣obs_init_module(scene-collection-manager.so): 0.103 ms
+16:31:47.023:      ┃ ┣obs_init_module(scene-notes-dock.so): 1.475 ms
+16:31:47.023:      ┃ ┣obs_init_module(source-clone.so): 0.014 ms
+16:31:47.023:      ┃ ┣obs_init_module(source-copy.so): 0.254 ms
+16:31:47.023:      ┃ ┣obs_init_module(stroke-glow-shadow.so): 0.019 ms
+16:31:47.023:      ┃ ┣obs_init_module(text-freetype2.so): 0.02 ms
+16:31:47.023:      ┃ ┣obs_init_module(time-source.so): 0.008 ms
+16:31:47.023:      ┃ ┣obs_init_module(transition-table.so): 0.079 ms
+16:31:47.023:      ┃ ┣obs_init_module(vintage-filter.so): 0.008 ms
+16:31:47.023:      ┃ ┗obs_init_module(vlc-video.so): 2.411 ms
+16:31:47.023:      ┣OBSBasic::InitService: 1.64 ms
+16:31:47.023:      ┣OBSBasic::ResetOutputs: 0.227 ms
+16:31:47.023:      ┣OBSBasic::CreateHotkeys: 0.032 ms
+16:31:47.023:      ┣OBSBasic::InitPrimitives: 0.122 ms
+16:31:47.023:      ┗OBSBasic::Load: 265.074 ms
+16:31:47.023: obs_hotkey_thread(25 ms): min=0 ms, median=0.001 ms, max=0.306 ms, 99th percentile=0.007 ms, 100% below 25 ms
+16:31:47.023: audio_thread(Audio): min=0.008 ms, median=0.153 ms, max=38.451 ms, 99th percentile=7.383 ms
+16:31:47.023: obs_graphics_thread(33.3333 ms): min=0.083 ms, median=1.947 ms, max=210.412 ms, 99th percentile=17.41 ms, 99.964% below 33.333 ms
+16:31:47.023:  ┣tick_sources: min=0 ms, median=0.018 ms, max=192.488 ms, 99th percentile=0.12 ms
+16:31:47.023:  ┣output_frame: min=0.061 ms, median=1.454 ms, max=62.293 ms, 99th percentile=16.56 ms
+16:31:47.023:  ┃ ┗gs_context(video->graphics): min=0.061 ms, median=1.453 ms, max=62.286 ms, 99th percentile=16.555 ms
+16:31:47.023:  ┃   ┣render_video: min=0.013 ms, median=1.002 ms, max=60.664 ms, 99th percentile=15.84 ms
+16:31:47.023:  ┃   ┃ ┗render_main_texture: min=0.01 ms, median=0.997 ms, max=60.658 ms, 99th percentile=15.835 ms
+16:31:47.023:  ┃   ┗gs_flush: min=0.042 ms, median=0.375 ms, max=14.92 ms, 99th percentile=2.042 ms
+16:31:47.023:  ┗render_displays: min=0.004 ms, median=0.251 ms, max=26.072 ms, 99th percentile=3.303 ms
+16:31:47.023: =================================================
+16:31:47.023: == Profiler Time Between Calls ==================
+16:31:47.023: obs_hotkey_thread(25 ms): min=25.02 ms, median=25.123 ms, max=52.933 ms, 96.66% within ±2% of 25 ms (0% lower, 3.34004% higher)
+16:31:47.023: obs_graphics_thread(33.3333 ms): min=17.572 ms, median=33.333 ms, max=210.42 ms, 96.7214% within ±2% of 33.333 ms (1.62848% lower, 1.65009% higher)
+16:31:47.023: =================================================
+16:31:47.057: Number of memory leaks: 50
